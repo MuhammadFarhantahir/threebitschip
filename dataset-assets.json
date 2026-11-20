@@ -1,0 +1,1036 @@
+{
+  "falcon-h1": [
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250101T111740.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/dd1bdcf3-5430-4037-ad4a-1727004d38d2/download/",
+      "sha256": "f8af652a31228f08b26ff8a7ecfd2a6bd05a345e368da8c98be649229f80adb2"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250101T112404.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/782b6fad-2679-4174-a88f-ad58589fe283/download/",
+      "sha256": "b946c4cf49f00c2ea8f0051481765ed090294e3e1e5a035cc5716ad93aa052b2"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250108T111022.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/98f1e471-ad68-4006-b090-9a3e347852e6/download/",
+      "sha256": "9398f27c6164e84a379c4a0b8d40d8acf642659c175b9411d4573147881c0e68"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250108T111455.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/31a4259f-a8fa-47fc-bc31-4c88dfdd10e1/download/",
+      "sha256": "3a093dd558a7c5b3dbb38eaa1bb1699742a4b865066a336e65c5fe3abdfdd861"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250108T110520.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/e40a2eca-883d-4c80-81e3-4203a49506b5/download/",
+      "sha256": "8a09f6ead8a44776d2cee62850ff489bd16b1323799c986cad070dad784a2b83"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250113T120811.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/bd4c010b-bf13-4e4b-8149-964b99b51ba4/download/",
+      "sha256": "477410e16b8c1ccfcb3caba9403169ec21ab8bee35c4846376bae781003c5f92"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250113T121303.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/6ffa00d8-b1b0-44b7-98d2-e3ddf3751c13/download/",
+      "sha256": "29d01954747e028dc8b91f82ece28ef11b95a1a33ab3a57e55eb5f967706419f"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250115T110633.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/9a95d428-053c-42ba-afae-da03791b7127/download/",
+      "sha256": "ed0760aaa946e42f8ad812d3aef7f5faf66b21b5f2804aa77574c7f7ee853451"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250115T111328.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/46938dff-771b-4b57-b0f7-cedb6cf2fdc6/download/",
+      "sha256": "022956ab01c8cb645e19327ba3457f2a065b30dd402bb4541e51c684d6a46e20"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250119T113543.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/c389e73f-f5cf-4cc8-93bf-6972d4333a97/download/",
+      "sha256": "f176ad4e1221843a94b67f87e0676bbcb83b7b1f5e49a58b2ae1d85b30e445d6"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250119T114045.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/02f569e8-7a26-4101-9eda-2b54b47bfab8/download/",
+      "sha256": "a9548924522750f6217409a9797b37389d22c9a0fe3ef145b87343192ff7d6ac"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250101T112404.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/3ccec807-0955-453d-a982-54c1beb8bf69/download/",
+      "sha256": "e3177a65ffad2d5472c05737e6ff71ef98879bfb744c55608bda18afb11efe60"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250101T111740.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/6e45be2c-12b9-43ee-b945-9426f7349eb2/download/",
+      "sha256": "a95585515b1a12a61603fb3170843351d2fb6551ba6e0456c483570b085e68f3"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250120T115537.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/04e815ce-b86e-43f2-891f-9bba135857ca/download/",
+      "sha256": "df0ba7830d01e82b716d7a1eaac0b0400ebc84e8cbf0c9e2e047437a31c43e70"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-calib/sub-HumanPitt-held-in-calib_ses-19250120T115044.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/18389588-85a6-4df8-a99b-48e3cfc9c9d8/download/",
+      "sha256": "34e0f0d229942516aec6148d2deaf0bbeabda3d10b86cd889fedf0563366c084"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250108T110520.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/1f52eef5-de31-444c-bd30-10ce9b1143dd/download/",
+      "sha256": "99fb1997035c4f9b0dd0a97be093042f9b7cf10af55cb2a3dc83eea7e35b4d0e"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250108T111455.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/f860bec0-c9ad-460c-8e9d-9b1f008c1dcc/download/",
+      "sha256": "052423d5963899ebfc669d56ada6bc7ab4c060f023616a870c804c1b24f1418e"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250113T120811.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/145b08bd-460c-4e35-adfd-393ae4da898b/download/",
+      "sha256": "8fcaf8bf0030556ccccd1ff8133b45728409b4972ab8fcf0f554b9ad8befc41e"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250113T121303.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/8a67178b-b652-47f1-82e1-e23d76fad874/download/",
+      "sha256": "8842d94cda42a92e71fb6d611cb97534263887441458086261110f9c3f363b5a"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250108T111022.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/cafc683b-91d3-46e1-b981-352361907a11/download/",
+      "sha256": "0831e7fb7f262faabc1520237bf8dfeea47dd02211642fac75c5257a24d5bc3f"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250115T110633.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/fe6a8fe2-2f88-43aa-9f72-e703346e179d/download/",
+      "sha256": "d4616e5bca7d1b4581bfca0796e7a6b2c0fc1d2f2b0f1b24171d63818922fec7"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250115T111328.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/a1c3a7d5-07d1-4c24-9f92-bf316e507687/download/",
+      "sha256": "dd320a6352e312cdbd89eed3a0a8f0729b49c5c6f24101fd00d3fc334d91671c"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250119T114045.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/2136f538-f47e-4c73-9505-46ca77cd1a62/download/",
+      "sha256": "da99134321f3fbd0702791cc76deb46e468260fa24568bc297fb7ba7b7c7ee2e"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250120T115044.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/3698950f-dec6-4f97-9c3f-f34987c0f15e/download/",
+      "sha256": "9b4420f19793bcbe8ed2bb242e1fdc55e223dc20ad6c8c5ed49a4a61fbb11dc4"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250119T113543.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/06c7a3c7-ea46-4083-a146-2b96f0b22629/download/",
+      "sha256": "5c5ce0f17fdacfb89d0361eec46bc00ef8472fb8bd1018a124fe28ae8ab8fb54"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-in-minival/sub-HumanPitt-held-in-minival_ses-19250120T115537.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/22fa4b8e-75f0-4449-a2b3-cbdc36f5d574/download/",
+      "sha256": "666047a942c82919bbb6b7bb6dda6c7222091c2051cbe12213b1a493610ae179"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250126T113454.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/dbec5a3f-46a3-4c8d-bb88-6e8546b0c729/download/",
+      "sha256": "6fcdb0441ee732bf0b7ac633312b8feac426e5d461218b30b99ac8de6477d553"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250126T114029.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/bf00d112-80aa-475c-80bd-4ba1e510708a/download/",
+      "sha256": "82a75e51605598fbb81997c2f0c2847ee22c0b578c8a4029401bbc02422e5946"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250127T120826.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/a28ab2e2-f7ac-4da5-ad8a-2ce287565fec/download/",
+      "sha256": "e6f5c4763776eca2a8a807cbfa45219e1492915151d54f531cc13d1884ceff92"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250127T120333.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/95beef44-4bab-496e-bbbf-e1375127d6b1/download/",
+      "sha256": "c0f2c2bf9589ef138e3cb5aa96b123d7146db6ab994d9a228f17824a9a900068"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250129T112555.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/7b3de668-4f40-4af0-bf1f-4e9a2282e4ea/download/",
+      "sha256": "e8b7c769b6b5296273cece03b1a2ad57d1ff166f5b9875acce46345912838109"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250129T113059.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/54420259-4d3e-4e57-828e-a3e7f51ab76f/download/",
+      "sha256": "f8eb0cdcd5105448411028b348de89c899e9598898667161356a5fd3103600a5"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250202T113958.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/1105af5f-f06d-4b03-b03d-e843dc7277cd/download/",
+      "sha256": "eb76704aa5828f91e500879e912b4a22f65ec80a1a1fa6eea2ab0af0260f9560"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250202T114452.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/875e087c-3d29-4802-a5a7-02638a10af4e/download/",
+      "sha256": "07aec96a8acdb6e9c89e724f9a9ed7ffb9fafec4bc8d331be59dc7770e6c27b0"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250203T113515.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/2a503f2f-834c-43eb-b7ae-237f83f88aa2/download/",
+      "sha256": "354813371b8d6d8ea933a15895570646c62406ee31e705a881b57758da0d2d51"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250206T112219.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/7fe0bd9e-f20f-4f03-8e53-e503a1bcbd39/download/",
+      "sha256": "ab254456922d99b54237f9634c1985e8f59900f94befc6c8f31f426cbba9e3ea"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250203T114018.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/1fb172b5-f508-44a3-9b3d-875f1502797d/download/",
+      "sha256": "745d0b9ec3487f6f68d85e826215574cf7f133314c54e3a7485e0022492fd4ef"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250206T112712.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/9bdc2778-3598-47a9-99d9-39900245c5f4/download/",
+      "sha256": "94b2341973c2bdfacdd8e791883ceb0914600ccb4d7e280758a358072b4018ef"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250209T111826.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/f2407a64-cde7-4bf5-92df-31837ecf3a5e/download/",
+      "sha256": "301d6bd105c3e86f25d95557693dd38bbb39a8341e358087cdcfb4d3342eb761"
+    },
+    {
+      "path": "falcon_h1/sub-HumanPitt-held-out-calib/sub-HumanPitt-held-out-calib_ses-19250209T112327.nwb",
+      "url": "https://api.dandiarchive.org/api/assets/de27f0a5-3f49-4faa-970f-c8a5b59d6dc7/download/",
+      "sha256": "48acb759e00a07615b4a7929d58637e625af6b5cefd423a7f6be5e179d4ac937"
+    }
+  ],
+  "mc-maze": [
+    {
+      "path": "mc_maze_train.nwb",
+      "url": "https://api.dandiarchive.org/api/dandisets/000128/versions/0.220113.0400/assets/26e85f09-39b7-480f-b337-278a8f034007/download/",
+      "sha256": "a27f84f9c31f077011062fd99a6ced199fdf19e656151f056c3c6244a408a3c4"
+    }
+  ],
+  "hcp": [
+    {
+      "path": "hcp_connectome/strucLabels_ctx_schaefer_100.csv",
+      "url": "https://raw.githubusercontent.com/MICA-MNI/ENIGMA/b08974b55243060cbc1fad12c87048037446e8f7/enigmatoolbox/datasets/matrices/hcp_connectivity/strucLabels_ctx_schaefer_100.csv",
+      "sha256": "27f695aec7c095e95c1b0215ebf6ab232d7e97bd2d26e0e47821b59b2ecfaaf3"
+    },
+    {
+      "path": "hcp_connectome/strucMatrix_ctx_schaefer_100.csv",
+      "url": "https://raw.githubusercontent.com/MICA-MNI/ENIGMA/b08974b55243060cbc1fad12c87048037446e8f7/enigmatoolbox/datasets/matrices/hcp_connectivity/strucMatrix_ctx_schaefer_100.csv",
+      "sha256": "dea65da4029e99880e649414ff258f2236e5e9cfae80d7c448dbd4d183ac014f"
+    },
+    {
+      "path": "hcp_connectome/funcMatrix_ctx_schaefer_100.csv",
+      "url": "https://raw.githubusercontent.com/MICA-MNI/ENIGMA/b08974b55243060cbc1fad12c87048037446e8f7/enigmatoolbox/datasets/matrices/hcp_connectivity/funcMatrix_ctx_schaefer_100.csv",
+      "sha256": "2aa7422195916c4a450f57442fadcf5c26ca82571cd63c25cd98f7e48b7cdd76"
+    },
+    {
+      "path": "hcp_connectome/schaefer100_centroids_mni.csv",
+      "url": "https://raw.githubusercontent.com/ThomasYeoLab/CBIG/634f676630929a71297852d01dd92a287103e861/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal/Parcellations/MNI/Centroid_coordinates/Schaefer2018_100Parcels_7Networks_order_FSLMNI152_2mm.Centroid_RAS.csv",
+      "sha256": "b59d28adece3f956103b77319e76afd2afb95f2df89d7e7964f75bb53325adab"
+    }
+  ],
+  "tmseeg": [
+    {
+      "path": "tmseeg_ds008037/fsaverage_1005.tsv",
+      "url": "https://raw.githubusercontent.com/mne-tools/mne-python/v1.13.2/mne/channels/data/montages/fsaverage_1005.tsv",
+      "sha256": "c39f5430b3d5c290f3bea25e443d11cd319717cefc5d772208a558bf5d6badb2"
+    }
+  ],
+  "ccep": [
+    {
+      "path": "ccep_ds004080/ccepData_V2.mat",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/derivatives/av_ccep/ccepData_V2.mat",
+      "sha256": "ec2b425c65f46673cedd1739e838f948dc17dff97734596bc87d7ec0b930b731"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU01_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU01/ses-1/ieeg/sub-ccepAgeUMCU01_ses-1_electrodes.tsv",
+      "sha256": "fe3ba93cdd298e38fd735694ab6aa965b7ce0d8096c90a848e50d5ddc031f7b2"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU02_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU02/ses-1/ieeg/sub-ccepAgeUMCU02_ses-1_electrodes.tsv",
+      "sha256": "35fdc49d9b34117019d0f131352549556ed0224361f09bd607476362c0606c46"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU03_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU03/ses-1/ieeg/sub-ccepAgeUMCU03_ses-1_electrodes.tsv",
+      "sha256": "547be7c919981d01c8e0110f93aaebc10a998cf501d9590a9c98d70d889f472d"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU04_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU04/ses-1/ieeg/sub-ccepAgeUMCU04_ses-1_electrodes.tsv",
+      "sha256": "4635aed1956b85f251c5f582c4685ff7e69a4551d527d3049fe2c0d9ce4e0add"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU05_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU05/ses-1/ieeg/sub-ccepAgeUMCU05_ses-1_electrodes.tsv",
+      "sha256": "77ec1f7bcaa3c55580bec50d1fe3a3cc201a9551ddfeb248977d6a2463392dac"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU06_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU06/ses-1/ieeg/sub-ccepAgeUMCU06_ses-1_electrodes.tsv",
+      "sha256": "869b86e6e04f64224aa1c96c2a3313be84e28822ebef1e9930a9c5ab4d0a71a6"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU07_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU07/ses-1/ieeg/sub-ccepAgeUMCU07_ses-1_electrodes.tsv",
+      "sha256": "a4aa75f1cbc2f2fd5c628e318533014d6f37c67568eb7876ffc949d44dc2b806"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU08_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU08/ses-1/ieeg/sub-ccepAgeUMCU08_ses-1_electrodes.tsv",
+      "sha256": "62139ec543abcd5dd2cd890c0e2509d7351c9cc5f12d8158a3d1a9005564ae41"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU09_ses-1b_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU09/ses-1b/ieeg/sub-ccepAgeUMCU09_ses-1b_electrodes.tsv",
+      "sha256": "d55fa92ffdd994f42d81b8c16a30770f2e94f20df4ae0f93c7308f1b2aa24201"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU10_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU10/ses-1/ieeg/sub-ccepAgeUMCU10_ses-1_electrodes.tsv",
+      "sha256": "357bd4819f3524b4f0c88bc49ba03d1c823b8603d4f71cc059585d60320ca2ff"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU11_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU11/ses-1/ieeg/sub-ccepAgeUMCU11_ses-1_electrodes.tsv",
+      "sha256": "e68eb72340619857db86dbe72f0a0dd3a551221b023f3479b054d0e4ebd83618"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU12_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU12/ses-1/ieeg/sub-ccepAgeUMCU12_ses-1_electrodes.tsv",
+      "sha256": "95bb85e0dc0dafd717e40da415cfa71e090e2c4cf0c0f2e76e9cb79b6cebdcbd"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU13_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU13/ses-1/ieeg/sub-ccepAgeUMCU13_ses-1_electrodes.tsv",
+      "sha256": "cca691ba65f980bcbb2d8a09a860339425efaddc5b25925bf9a4e7d07c4c3916"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU14_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU14/ses-1/ieeg/sub-ccepAgeUMCU14_ses-1_electrodes.tsv",
+      "sha256": "bdad98db3f5ae2500df7306c16b66d1ff24c8198f8120b4c03fea2a094cd46ea"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU15_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU15/ses-1/ieeg/sub-ccepAgeUMCU15_ses-1_electrodes.tsv",
+      "sha256": "516c882727adc022a51e8d75be82c683a9cceaffff536bcb45b2dcb7a5f8db3b"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU16_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU16/ses-1/ieeg/sub-ccepAgeUMCU16_ses-1_electrodes.tsv",
+      "sha256": "108adaba429665b67c629aa786f4023429a94e5c7d6a13162b63a96f0bcab827"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU17_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU17/ses-1/ieeg/sub-ccepAgeUMCU17_ses-1_electrodes.tsv",
+      "sha256": "e4d1b9e122b5aedadd0a5bf8f7f3af6427f99e4bff979db37e2decca13450d60"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU18_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU18/ses-1/ieeg/sub-ccepAgeUMCU18_ses-1_electrodes.tsv",
+      "sha256": "0b3c84bcb3cdb1a6019bd97135732110d40d503c708f9cb71e72a6a612452666"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU19_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU19/ses-1/ieeg/sub-ccepAgeUMCU19_ses-1_electrodes.tsv",
+      "sha256": "98d26ce10bf159d51af5d47c232c5166dcc77aa75f73b7e903032e253ce4cfa5"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU20_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU20/ses-1/ieeg/sub-ccepAgeUMCU20_ses-1_electrodes.tsv",
+      "sha256": "f7ae87197da538cdcffb01f01a826a51aa7c58787514c05b4463740bfc556ebb"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU21_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU21/ses-1/ieeg/sub-ccepAgeUMCU21_ses-1_electrodes.tsv",
+      "sha256": "bf724ab6a894a5b43180c729049cf1bcc620a47ead6fb6e00066f0325d909cd3"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU22_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU22/ses-1/ieeg/sub-ccepAgeUMCU22_ses-1_electrodes.tsv",
+      "sha256": "aa83b68865952496bbb7b1fce053206048914c5190353819e6f9c0fcc0f45f9d"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU23_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU23/ses-1/ieeg/sub-ccepAgeUMCU23_ses-1_electrodes.tsv",
+      "sha256": "6c0144e17d3f51a695eb7650c10992a78191bbc089c79cb8b46e819fe8681507"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU24_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU24/ses-1/ieeg/sub-ccepAgeUMCU24_ses-1_electrodes.tsv",
+      "sha256": "9fd84224b371c7cf36077dc43f3462602bda8abbc19af0932b565eb6035f4ea0"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU25_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU25/ses-1/ieeg/sub-ccepAgeUMCU25_ses-1_electrodes.tsv",
+      "sha256": "0622691c50a6e10301ad7972eeb1f0f93e82058de197bed1b30250725bff7c3b"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU26_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU26/ses-1/ieeg/sub-ccepAgeUMCU26_ses-1_electrodes.tsv",
+      "sha256": "614a22a10cbe7ca6bac5a2d5408cab5fd8d2f05fe294db21f76626a14c1d96a6"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU27_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU27/ses-1/ieeg/sub-ccepAgeUMCU27_ses-1_electrodes.tsv",
+      "sha256": "4783a8815a97722b8bf2c0e877bb86703fa27786ee51d3d5dfe7097e73ff7e84"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU28_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU28/ses-1/ieeg/sub-ccepAgeUMCU28_ses-1_electrodes.tsv",
+      "sha256": "e469d7769882607bbb277cc8686a6fd952be7a6db80f0f553d2320e3396d61ca"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU29_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU29/ses-1/ieeg/sub-ccepAgeUMCU29_ses-1_electrodes.tsv",
+      "sha256": "23e78fcab8972cbdfca8188fe488d88da91a69b09cd5c41b15f0a18376da7082"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU30_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU30/ses-1/ieeg/sub-ccepAgeUMCU30_ses-1_electrodes.tsv",
+      "sha256": "02bd7c29811e80b91ca9850390e9f6fa52763a14b1c131a4c563ded1653d9cd1"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU31_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU31/ses-1/ieeg/sub-ccepAgeUMCU31_ses-1_electrodes.tsv",
+      "sha256": "bffc0502123215b81d2fdb72049e00f4a31e215228750915ea677bfb358d07a6"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU32_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU32/ses-1/ieeg/sub-ccepAgeUMCU32_ses-1_electrodes.tsv",
+      "sha256": "043c62a588e041f6253bdf80bfa022757c5050490d5106537955f624541c6a21"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU33_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU33/ses-1/ieeg/sub-ccepAgeUMCU33_ses-1_electrodes.tsv",
+      "sha256": "1a9b804878ae7d57f7e210eef0ee7d2494b1cde366af1a2157e19a6f681d50b2"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU34_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU34/ses-1/ieeg/sub-ccepAgeUMCU34_ses-1_electrodes.tsv",
+      "sha256": "852a8ee3d67fdf852a22ea6a87330c12381d25d5f32c1e67162ed84adc097b33"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU35_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU35/ses-1/ieeg/sub-ccepAgeUMCU35_ses-1_electrodes.tsv",
+      "sha256": "9193b194f443be4861633b87920949d9c994d1bda919ebc99b2fd0bff9508063"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU36_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU36/ses-1/ieeg/sub-ccepAgeUMCU36_ses-1_electrodes.tsv",
+      "sha256": "7ee0f7daa9b31cdcfbceb255ac8ada669f4e5b16ec9118a7efa9aa574ef50348"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU37_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU37/ses-1/ieeg/sub-ccepAgeUMCU37_ses-1_electrodes.tsv",
+      "sha256": "110c481b0b091865a5608e5493443eed65cc6c20e71dc79627d5b9016a9cf59c"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU38_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU38/ses-1/ieeg/sub-ccepAgeUMCU38_ses-1_electrodes.tsv",
+      "sha256": "e38577526aa46e1f2589f69853f18420fecd54a5a7c43bd33b71d76de6e87bc0"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU39_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU39/ses-1/ieeg/sub-ccepAgeUMCU39_ses-1_electrodes.tsv",
+      "sha256": "2dc104672c4dd1c0bbe20cc6462064b88ee21f3146f54a6bae4f53b7530a0757"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU40_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU40/ses-1/ieeg/sub-ccepAgeUMCU40_ses-1_electrodes.tsv",
+      "sha256": "6ee8c0d6ef4cd59330984c911d632b98d4b904da6b01aee4d986eb2775432003"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU41_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU41/ses-1/ieeg/sub-ccepAgeUMCU41_ses-1_electrodes.tsv",
+      "sha256": "18f8941dbc74a5e1defb388437b01f866d27f1aeaab19129f2133eb2b2136c6e"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU42_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU42/ses-1/ieeg/sub-ccepAgeUMCU42_ses-1_electrodes.tsv",
+      "sha256": "3894b678db513d1dc7f630a1e18360a33a7baee2a6dc6497dc6934ceed9cc79b"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU43_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU43/ses-1/ieeg/sub-ccepAgeUMCU43_ses-1_electrodes.tsv",
+      "sha256": "c11134c7f8cc31889244395e5439c4d108318cbaabd6359648525df3a6aaf6ab"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU44_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU44/ses-1/ieeg/sub-ccepAgeUMCU44_ses-1_electrodes.tsv",
+      "sha256": "22ee444c1227a43854547f02413f9520fe971ff465b469c87c7be2f492a2d41f"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU45_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU45/ses-1/ieeg/sub-ccepAgeUMCU45_ses-1_electrodes.tsv",
+      "sha256": "dd2ff6b7bfc7c24237ba369cbbb9983aded2b9dce73da15d1848843ee50c3a49"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU46_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU46/ses-1/ieeg/sub-ccepAgeUMCU46_ses-1_electrodes.tsv",
+      "sha256": "c4cfc9e49329962202e01cd8b4029c9ec849551b440c84fc955a595a0f81ff96"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU47_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU47/ses-1/ieeg/sub-ccepAgeUMCU47_ses-1_electrodes.tsv",
+      "sha256": "4fb568f2e90e2af7c3c95409cf740d347242ddfba5b22ac5b220efa95a008877"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU48_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU48/ses-1/ieeg/sub-ccepAgeUMCU48_ses-1_electrodes.tsv",
+      "sha256": "d7b7fd3b498f8f193d3724245f173688ab582874f9b4083656f4ae154b051e65"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU49_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU49/ses-1/ieeg/sub-ccepAgeUMCU49_ses-1_electrodes.tsv",
+      "sha256": "4022408119aa8b85cdb548996b536deb9900adb4a5081529c8f575f9cdd5634b"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU50_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU50/ses-1/ieeg/sub-ccepAgeUMCU50_ses-1_electrodes.tsv",
+      "sha256": "1ab425b38aefe825e84e9b8b5eefcf058831adbaa98cf519a26796102b0447ef"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU51_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU51/ses-1/ieeg/sub-ccepAgeUMCU51_ses-1_electrodes.tsv",
+      "sha256": "249ddca72fb081d7676a7e97524dc9f1162ca2657dc6a2ef424385782028021f"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU52_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU52/ses-1/ieeg/sub-ccepAgeUMCU52_ses-1_electrodes.tsv",
+      "sha256": "7004be9d1d12b6a3431b1eb03fa1a727f942817f494cf00cd9a0f0c969bdd41d"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU53_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU53/ses-1/ieeg/sub-ccepAgeUMCU53_ses-1_electrodes.tsv",
+      "sha256": "d2dded3d67aaf3d0e73588761780265c451f57c7a246bec31dfe5ea8156e1dcf"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU54_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU54/ses-1/ieeg/sub-ccepAgeUMCU54_ses-1_electrodes.tsv",
+      "sha256": "626f8e42e3dae8cab5da2cbe27e3303ea844ce09cdc0439072d6063f530d6974"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU55_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU55/ses-1/ieeg/sub-ccepAgeUMCU55_ses-1_electrodes.tsv",
+      "sha256": "447bcf3830c5310bce2c857636dac05db8ba5e1bb28819539e9f87d31b7b19ae"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU56_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU56/ses-1/ieeg/sub-ccepAgeUMCU56_ses-1_electrodes.tsv",
+      "sha256": "3be05eb7fd81a48c39f44f61f59401d04cb4911274a00df7d3e2763035417107"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU57_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU57/ses-1/ieeg/sub-ccepAgeUMCU57_ses-1_electrodes.tsv",
+      "sha256": "1d261248e1085048bc907719c7052d619b17ee45b1d4d0c2223cf79ea41d7a1f"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU58_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU58/ses-1/ieeg/sub-ccepAgeUMCU58_ses-1_electrodes.tsv",
+      "sha256": "31defd2fd963372d46ddec710cf93311a513546017c29923d17512d86ac08f80"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU59_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU59/ses-1/ieeg/sub-ccepAgeUMCU59_ses-1_electrodes.tsv",
+      "sha256": "32946203a38c700bb165b40f87208d91b910c4e09c62308384ab1a88ca9f2062"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU60_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU60/ses-1/ieeg/sub-ccepAgeUMCU60_ses-1_electrodes.tsv",
+      "sha256": "3dd774ccdf10aefb7f000f49055272edd5de14389a21a8720ff83420f79a178c"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU61_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU61/ses-1/ieeg/sub-ccepAgeUMCU61_ses-1_electrodes.tsv",
+      "sha256": "d4a450bcd859c4e6a128d174137d10267cbb376fc0992a57416960d39d8c0e7f"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU62_ses-1b_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU62/ses-1b/ieeg/sub-ccepAgeUMCU62_ses-1b_electrodes.tsv",
+      "sha256": "789f2474008feb825e581d726ee938c4a0cd1d689431fcba96c25536de4ec3e4"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU63_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU63/ses-1/ieeg/sub-ccepAgeUMCU63_ses-1_electrodes.tsv",
+      "sha256": "611b59ffcef822132cc4d4e828e4fdfd2798fcfa5187e5abebb8fed0a3cb6b33"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU64_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU64/ses-1/ieeg/sub-ccepAgeUMCU64_ses-1_electrodes.tsv",
+      "sha256": "4e884be1c043a3054318cfaef45609a8fdbd098058a5c113fe9a5b346626a025"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU65_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU65/ses-1/ieeg/sub-ccepAgeUMCU65_ses-1_electrodes.tsv",
+      "sha256": "30ea12291b24552bea4a3684d43b7f6342b3005527d3fdd98bcbf434b8214baa"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU66_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU66/ses-1/ieeg/sub-ccepAgeUMCU66_ses-1_electrodes.tsv",
+      "sha256": "d0a7a2ea809dbe355252fdd635244ac8c48c921b60ba4e15921b55671b129bf7"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU67_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU67/ses-1/ieeg/sub-ccepAgeUMCU67_ses-1_electrodes.tsv",
+      "sha256": "f6805eeb78cbd1cfacb2318dfa006a65252a46eced77d941cf3aeb3b8b873a9f"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU68_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU68/ses-1/ieeg/sub-ccepAgeUMCU68_ses-1_electrodes.tsv",
+      "sha256": "c11b34e4558b715ea5ad2d66f1f5269c284d2bd6aff572f7bb95948b04f96b06"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU69_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU69/ses-1/ieeg/sub-ccepAgeUMCU69_ses-1_electrodes.tsv",
+      "sha256": "ed7e70994f8007be8ad08f231f5210cbf1a1c69774930ea6b9e9e2c41574166d"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU70_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU70/ses-1/ieeg/sub-ccepAgeUMCU70_ses-1_electrodes.tsv",
+      "sha256": "92d1c9e639ef214848f46617b685adaf54aec6a5fd83b351d18db207a33065dc"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU71_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU71/ses-1/ieeg/sub-ccepAgeUMCU71_ses-1_electrodes.tsv",
+      "sha256": "36726a6088d6ec179c826e6cef5f7eaa53a4d2161668fa8306bcc18ab8603671"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU72_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU72/ses-1/ieeg/sub-ccepAgeUMCU72_ses-1_electrodes.tsv",
+      "sha256": "876105f02e473c0165613deb6e433817c1d4585fcda9634c5d7bb04528ba51ba"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU73_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU73/ses-1/ieeg/sub-ccepAgeUMCU73_ses-1_electrodes.tsv",
+      "sha256": "8a1edf6bb0c2fadd0a702085f24016e194cde14345eeac9444016f4d500a6223"
+    },
+    {
+      "path": "ccep_ds004080/electrodes/sub-ccepAgeUMCU74_ses-1_electrodes.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004080/sub-ccepAgeUMCU74/ses-1/ieeg/sub-ccepAgeUMCU74_ses-1_electrodes.tsv",
+      "sha256": "f1d8cea565c7883cfdc3ae7d552f10b2aa40ece44ec6e1d809270ba8b0e1682f"
+    }
+  ],
+  "ram": [
+    {
+      "path": "ram_closedloop/ds005557/participants.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/participants.tsv",
+      "sha256": "d17c51069555c4a872a441aa5db7b39e8aaf87b3d180a32767bb771306eed063"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1124J/ses-0/ieeg/sub-R1124J_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1124J/ses-0/ieeg/sub-R1124J_ses-0_task-FR3_events.tsv",
+      "sha256": "d276f0791824f48fb7860a99074d597cf75446aaafc54784cd4896de5cd2f5bf"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1124J/ses-0/ieeg/sub-R1124J_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1124J/ses-0/ieeg/sub-R1124J_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "49640a581a3cacf3c2c29ad353ded77cb3becf6a55b755cd91e7e7d93fe9a94f"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1124J/ses-1/ieeg/sub-R1124J_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1124J/ses-1/ieeg/sub-R1124J_ses-1_task-FR3_events.tsv",
+      "sha256": "13dc1e98acc63aaf0a4ff8c45dc448e3148a1f8bcef49ad59cde9a6105d168b9"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1124J/ses-1/ieeg/sub-R1124J_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1124J/ses-1/ieeg/sub-R1124J_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "49640a581a3cacf3c2c29ad353ded77cb3becf6a55b755cd91e7e7d93fe9a94f"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1145J/ses-0/ieeg/sub-R1145J_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1145J/ses-0/ieeg/sub-R1145J_ses-0_task-FR3_events.tsv",
+      "sha256": "fbcc53a85e1d7e26b3c2e6a0b79d6b7af639247802320a0e51b12007f692c989"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1145J/ses-0/ieeg/sub-R1145J_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1145J/ses-0/ieeg/sub-R1145J_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "0031e468a556b5e0f75806a8c30a651e9aa47d360bdc87999be1b9b654ad2cd4"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-0/ieeg/sub-R1154D_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-0/ieeg/sub-R1154D_ses-0_task-FR3_events.tsv",
+      "sha256": "7a5725fc26fd2b4091d2f54fa6f9a8541b33f9a6bfebfb66754c2950ddaee98e"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-0/ieeg/sub-R1154D_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-0/ieeg/sub-R1154D_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "8fdcfeb1a1b79f8964bcab04a31ed3a4e405fd624d63c48f616e67afb36a100d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-1/ieeg/sub-R1154D_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-1/ieeg/sub-R1154D_ses-1_task-FR3_events.tsv",
+      "sha256": "4b9e655d5535f2554ee3f0990ecd32afab4ea1dc59add6b0cf2647c2cd568e34"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-1/ieeg/sub-R1154D_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-1/ieeg/sub-R1154D_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "8fdcfeb1a1b79f8964bcab04a31ed3a4e405fd624d63c48f616e67afb36a100d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-2/ieeg/sub-R1154D_ses-2_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-2/ieeg/sub-R1154D_ses-2_task-FR3_events.tsv",
+      "sha256": "89bd0f9f2c6feed1323e6bcfdff6124ec785ffe72bd4a3f12d7d9aea475c6198"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-2/ieeg/sub-R1154D_ses-2_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-2/ieeg/sub-R1154D_ses-2_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "8fdcfeb1a1b79f8964bcab04a31ed3a4e405fd624d63c48f616e67afb36a100d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-3/ieeg/sub-R1154D_ses-3_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-3/ieeg/sub-R1154D_ses-3_task-FR3_events.tsv",
+      "sha256": "e6c12c2b74f7618b5b7470e9bb1cd1b7768a222d8d0b5fc769fa3b5776941a40"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-3/ieeg/sub-R1154D_ses-3_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-3/ieeg/sub-R1154D_ses-3_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "8fdcfeb1a1b79f8964bcab04a31ed3a4e405fd624d63c48f616e67afb36a100d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-4/ieeg/sub-R1154D_ses-4_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-4/ieeg/sub-R1154D_ses-4_task-FR3_events.tsv",
+      "sha256": "dd3e6b95ebc9a79228c18317ee6b6e34302db245349e51aabc196e72e824c4a3"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1154D/ses-4/ieeg/sub-R1154D_ses-4_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1154D/ses-4/ieeg/sub-R1154D_ses-4_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "8fdcfeb1a1b79f8964bcab04a31ed3a4e405fd624d63c48f616e67afb36a100d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1161E/ses-0/ieeg/sub-R1161E_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1161E/ses-0/ieeg/sub-R1161E_ses-0_task-FR3_events.tsv",
+      "sha256": "b259882260481d3c4a11742dbe3a6fe3ac3ea7f32ad8c862da0cf34c1ed4370b"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1161E/ses-0/ieeg/sub-R1161E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1161E/ses-0/ieeg/sub-R1161E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "07deb14442c4d3650da2d0abca41732db2a5fbc063e6bfc7fcfa6f6ba3895c71"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1161E/ses-1/ieeg/sub-R1161E_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1161E/ses-1/ieeg/sub-R1161E_ses-1_task-FR3_events.tsv",
+      "sha256": "9020d55eb949b8e29735d1fa38f17886a232647177d9d9a5d7ab7ba9424455f3"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1161E/ses-1/ieeg/sub-R1161E_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1161E/ses-1/ieeg/sub-R1161E_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "07deb14442c4d3650da2d0abca41732db2a5fbc063e6bfc7fcfa6f6ba3895c71"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1163T/ses-0/ieeg/sub-R1163T_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1163T/ses-0/ieeg/sub-R1163T_ses-0_task-FR3_events.tsv",
+      "sha256": "a11839a67a4f10dae75c50c3b188ae3b34f2f129ad99bfb5a9f2a07cb7322b7d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1163T/ses-0/ieeg/sub-R1163T_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1163T/ses-0/ieeg/sub-R1163T_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "bef153ea676594bc56dea4217fcdf7a7465448ccfa54690347a96878111db1d0"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1163T/ses-1/ieeg/sub-R1163T_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1163T/ses-1/ieeg/sub-R1163T_ses-1_task-FR3_events.tsv",
+      "sha256": "75efbf72ff5369c0d61825fe8c2ad5ab11c66f9a1d81552fc0d86253f0658037"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1163T/ses-1/ieeg/sub-R1163T_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1163T/ses-1/ieeg/sub-R1163T_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "bef153ea676594bc56dea4217fcdf7a7465448ccfa54690347a96878111db1d0"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1166D/ses-0/ieeg/sub-R1166D_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1166D/ses-0/ieeg/sub-R1166D_ses-0_task-FR3_events.tsv",
+      "sha256": "8aded4721a7c2815f7156da8016e359a3fee3d19405e7a97f4dae807f970deec"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1166D/ses-0/ieeg/sub-R1166D_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1166D/ses-0/ieeg/sub-R1166D_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "064497f78722c11574049e1d1378a0d71e85d3a2e49c26d8c2576b4b97e36d59"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1166D/ses-1/ieeg/sub-R1166D_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1166D/ses-1/ieeg/sub-R1166D_ses-1_task-FR3_events.tsv",
+      "sha256": "5886e61b7506ad05289dc1e453674d510c5eacf70b7a6f6a927c91b0fe6e36cf"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1166D/ses-1/ieeg/sub-R1166D_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1166D/ses-1/ieeg/sub-R1166D_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "064497f78722c11574049e1d1378a0d71e85d3a2e49c26d8c2576b4b97e36d59"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1170J/ses-0/ieeg/sub-R1170J_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1170J/ses-0/ieeg/sub-R1170J_ses-0_task-FR3_events.tsv",
+      "sha256": "3fe9768c01b7e909d2ca72adc1d1d77e23bee68ed17280da4424aec095c5e525"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1170J/ses-0/ieeg/sub-R1170J_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1170J/ses-0/ieeg/sub-R1170J_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "0eee2bc2772a30979a4ef8c6a860497d49a7cba01a44fb747598442b60409229"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1170J/ses-1/ieeg/sub-R1170J_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1170J/ses-1/ieeg/sub-R1170J_ses-1_task-FR3_events.tsv",
+      "sha256": "7b5c6cd7f510c9cacaf0d544be3d138d31ab73841ddf0ad75929fe63b8e6bc2c"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1170J/ses-1/ieeg/sub-R1170J_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1170J/ses-1/ieeg/sub-R1170J_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "0eee2bc2772a30979a4ef8c6a860497d49a7cba01a44fb747598442b60409229"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1195E/ses-0/ieeg/sub-R1195E_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1195E/ses-0/ieeg/sub-R1195E_ses-0_task-FR3_events.tsv",
+      "sha256": "0c060373108abbb4425d6ba1ed9f9c72ad8b51d36c485f281c820076310812cf"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1195E/ses-0/ieeg/sub-R1195E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1195E/ses-0/ieeg/sub-R1195E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "55f036d339aa65054025e70eae8d696139980c05dbcd132a42999f665139f615"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1195E/ses-1/ieeg/sub-R1195E_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1195E/ses-1/ieeg/sub-R1195E_ses-1_task-FR3_events.tsv",
+      "sha256": "0c76c943a0d8135b3e7edd5af3293e6081d3bc0c8c7822ef7bea19a728084fd2"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1195E/ses-1/ieeg/sub-R1195E_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1195E/ses-1/ieeg/sub-R1195E_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "55f036d339aa65054025e70eae8d696139980c05dbcd132a42999f665139f615"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1195E/ses-2/ieeg/sub-R1195E_ses-2_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1195E/ses-2/ieeg/sub-R1195E_ses-2_task-FR3_events.tsv",
+      "sha256": "5212d4ee81cb7e5f9c485bdefef28c22773866a3b3d235a7c29779d781616ca4"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1195E/ses-2/ieeg/sub-R1195E_ses-2_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1195E/ses-2/ieeg/sub-R1195E_ses-2_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "55f036d339aa65054025e70eae8d696139980c05dbcd132a42999f665139f615"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1200T/ses-0/ieeg/sub-R1200T_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1200T/ses-0/ieeg/sub-R1200T_ses-0_task-FR3_events.tsv",
+      "sha256": "ca5db60421521ab81d6ae35fff8615d9b3aed69db81187760e0f6a2bef842bb9"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1200T/ses-0/ieeg/sub-R1200T_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1200T/ses-0/ieeg/sub-R1200T_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "556cc206e391b5011347454664889e1ce342f670f4e2c8da94ecce2514cf4809"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1201P/ses-0/ieeg/sub-R1201P_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1201P/ses-0/ieeg/sub-R1201P_ses-0_task-FR3_events.tsv",
+      "sha256": "4ae798ce60881ba38e3901f9b236a7b74c7a620ebc39101b357964c05902ec9d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1201P/ses-0/ieeg/sub-R1201P_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1201P/ses-0/ieeg/sub-R1201P_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "c29b34023f7da34ce332304010d2d523a0f9d3f81c6fc9f8cca48566362db21c"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1202M/ses-0/ieeg/sub-R1202M_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1202M/ses-0/ieeg/sub-R1202M_ses-0_task-FR3_events.tsv",
+      "sha256": "a0bd33f64e54a02dfab3b7044662b3f2ed87c2795096206a07af281d75ad76b5"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1202M/ses-0/ieeg/sub-R1202M_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1202M/ses-0/ieeg/sub-R1202M_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "e8764b17e11048b9b361049aba079fa37371de0ee90afbd7ea88b48b7a8501d8"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1202M/ses-1/ieeg/sub-R1202M_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1202M/ses-1/ieeg/sub-R1202M_ses-1_task-FR3_events.tsv",
+      "sha256": "942adec8d5220191e77ec6574b97f93103573abd9ca42efc9378963113897b5d"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1202M/ses-1/ieeg/sub-R1202M_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1202M/ses-1/ieeg/sub-R1202M_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "e8764b17e11048b9b361049aba079fa37371de0ee90afbd7ea88b48b7a8501d8"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1204T/ses-0/ieeg/sub-R1204T_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1204T/ses-0/ieeg/sub-R1204T_ses-0_task-FR3_events.tsv",
+      "sha256": "1ba2c9ef3b066c3c769dd8c00925518145e9e874f509dd1c1a359385329bd4e3"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1204T/ses-0/ieeg/sub-R1204T_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1204T/ses-0/ieeg/sub-R1204T_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "45bd83be038d53082461afc17af1fcf260e1adf96e38ff076b87309426ade2f3"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1217T/ses-0/ieeg/sub-R1217T_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1217T/ses-0/ieeg/sub-R1217T_ses-0_task-FR3_events.tsv",
+      "sha256": "ff342a89e4c415f348eb174b953c40d849b5facff258a7fa13257dcfef597810"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1217T/ses-0/ieeg/sub-R1217T_ses-0_task-FR3_space-Talairach_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1217T/ses-0/ieeg/sub-R1217T_ses-0_task-FR3_space-Talairach_electrodes.tsv",
+      "sha256": "7b27592e369c0aed4575b80d46b41a07321bbef69b894acad27d7a6558f4de3a"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1223E/ses-0/ieeg/sub-R1223E_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1223E/ses-0/ieeg/sub-R1223E_ses-0_task-FR3_events.tsv",
+      "sha256": "b45e443a928b3df462636ce9196f1aff2881f503e290fe66fe8f612101126155"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1223E/ses-0/ieeg/sub-R1223E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1223E/ses-0/ieeg/sub-R1223E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "3cbf12e206918c74f70a780abc05e599182e84431e76920318fc5b8036d41edf"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1223E/ses-1/ieeg/sub-R1223E_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1223E/ses-1/ieeg/sub-R1223E_ses-1_task-FR3_events.tsv",
+      "sha256": "7d2e17e4b441f0e07db265d8b382605c265ef5c9a1657da6ec94531187848eaf"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1223E/ses-1/ieeg/sub-R1223E_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1223E/ses-1/ieeg/sub-R1223E_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "3cbf12e206918c74f70a780abc05e599182e84431e76920318fc5b8036d41edf"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1235E/ses-0/ieeg/sub-R1235E_ses-0_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1235E/ses-0/ieeg/sub-R1235E_ses-0_task-FR3_events.tsv",
+      "sha256": "2ce64344a148e260ec596daa834f5beb375b47b212c081490a4066c28de34b10"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1235E/ses-0/ieeg/sub-R1235E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1235E/ses-0/ieeg/sub-R1235E_ses-0_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "97efccee59bb84ff84fe073fd125ec47ba24e32f57ab6353363ce8a4d0986951"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1293P/ses-1/ieeg/sub-R1293P_ses-1_task-FR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1293P/ses-1/ieeg/sub-R1293P_ses-1_task-FR3_events.tsv",
+      "sha256": "d3014f078e8bb5032237a3c3ba6eb15af803bf8b5947e4d12ecabec3f181b39e"
+    },
+    {
+      "path": "ram_closedloop/ds005557/sub-R1293P/ses-1/ieeg/sub-R1293P_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005557/cf54eed97d9ad9ac5e0ebfa17bb6cad236d43ca0/sub-R1293P/ses-1/ieeg/sub-R1293P_ses-1_task-FR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "d846aede28fd870b34399e9960e3c177807bbf214d67195bd05573ebd40ae937"
+    },
+    {
+      "path": "ram_closedloop/ds005558/participants.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/participants.tsv",
+      "sha256": "cb4474afb9a71ed776c3dc8b337e294050c7c11e34b8192c31234e378f2bbc04"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1226D/ses-0/ieeg/sub-R1226D_ses-0_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1226D/ses-0/ieeg/sub-R1226D_ses-0_task-catFR3_events.tsv",
+      "sha256": "2c4052bba0961c030a96c9e375835e3c1726a4cf1f260b9b6d25299f6954426f"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1226D/ses-0/ieeg/sub-R1226D_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1226D/ses-0/ieeg/sub-R1226D_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "540010005925a11fe2b32412491f565c10a5a1ef5b15101bbf7e8b9f9c31e07d"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1243T/ses-0/ieeg/sub-R1243T_ses-0_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1243T/ses-0/ieeg/sub-R1243T_ses-0_task-catFR3_events.tsv",
+      "sha256": "a86d4e5ff5adec8aab6caba592ff721a0d82d23f3043eeb926dc8589c3ec2fa2"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1243T/ses-0/ieeg/sub-R1243T_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1243T/ses-0/ieeg/sub-R1243T_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "a23dcb65db31314f8989c226903594b3a2473f10a86317e1b727f98f58cd7ab2"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1243T/ses-1/ieeg/sub-R1243T_ses-1_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1243T/ses-1/ieeg/sub-R1243T_ses-1_task-catFR3_events.tsv",
+      "sha256": "2ddd3af6580742d4a68da25549ba6aa767fa13e7e6bd66556acf6fabe7f1f94e"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1243T/ses-1/ieeg/sub-R1243T_ses-1_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1243T/ses-1/ieeg/sub-R1243T_ses-1_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "a23dcb65db31314f8989c226903594b3a2473f10a86317e1b727f98f58cd7ab2"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1247P/ses-0/ieeg/sub-R1247P_ses-0_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1247P/ses-0/ieeg/sub-R1247P_ses-0_task-catFR3_events.tsv",
+      "sha256": "1a97a27e693ea6306b0d38658786f9841c2ca69c859fecbcb30f1ec05bd265eb"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1247P/ses-0/ieeg/sub-R1247P_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1247P/ses-0/ieeg/sub-R1247P_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "d04f7f61d23b523bf25ca5a8ca7a9ac11f6857c46a8faf4145d906e98efe5e5c"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1260D/ses-0/ieeg/sub-R1260D_ses-0_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1260D/ses-0/ieeg/sub-R1260D_ses-0_task-catFR3_events.tsv",
+      "sha256": "479d988f94e3b38a4e33622e3675bbc3160b58d073ca4697adc2118e726e5137"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1260D/ses-0/ieeg/sub-R1260D_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1260D/ses-0/ieeg/sub-R1260D_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "ecfa93aa3640c54f6ed10081f3739f3a150e203fe2ca56bf7c3b722f635dbd83"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1260D/ses-2/ieeg/sub-R1260D_ses-2_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1260D/ses-2/ieeg/sub-R1260D_ses-2_task-catFR3_events.tsv",
+      "sha256": "6035fe089819bcd9acfa11bce9baece53e55bc7034220fe4f70076a6e49d8839"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1260D/ses-2/ieeg/sub-R1260D_ses-2_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1260D/ses-2/ieeg/sub-R1260D_ses-2_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "ecfa93aa3640c54f6ed10081f3739f3a150e203fe2ca56bf7c3b722f635dbd83"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1264P/ses-0/ieeg/sub-R1264P_ses-0_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1264P/ses-0/ieeg/sub-R1264P_ses-0_task-catFR3_events.tsv",
+      "sha256": "984fac0c7e8805965d53575e71e86342536bf6020e24905b26fbf6c97b6e35ed"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1264P/ses-0/ieeg/sub-R1264P_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1264P/ses-0/ieeg/sub-R1264P_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "187b5884810559ce656440373f8c1ffcdb26dd3078ed344ae5ba53a2cf671f58"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1264P/ses-1/ieeg/sub-R1264P_ses-1_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1264P/ses-1/ieeg/sub-R1264P_ses-1_task-catFR3_events.tsv",
+      "sha256": "dcf116a7219dc36c45fd7e94b60bc9374e7f9fb1d98eff1d50e36c11adeaedbe"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1264P/ses-1/ieeg/sub-R1264P_ses-1_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1264P/ses-1/ieeg/sub-R1264P_ses-1_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "187b5884810559ce656440373f8c1ffcdb26dd3078ed344ae5ba53a2cf671f58"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1274T/ses-0/ieeg/sub-R1274T_ses-0_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1274T/ses-0/ieeg/sub-R1274T_ses-0_task-catFR3_events.tsv",
+      "sha256": "10dda9b87cead77308b7fe8bc17fed83b6e710d0b5b4489d27620898d32de49c"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1274T/ses-0/ieeg/sub-R1274T_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1274T/ses-0/ieeg/sub-R1274T_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "4c8c77152bd587aa843cbbf8d844c87ffb952ba06f5e34813ea549d872c01d0c"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1286J/ses-0/ieeg/sub-R1286J_ses-0_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1286J/ses-0/ieeg/sub-R1286J_ses-0_task-catFR3_events.tsv",
+      "sha256": "aac5c17859b49e78bed4b586805db138bc1b763e109fd5ff5112138dde6370f5"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1286J/ses-0/ieeg/sub-R1286J_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1286J/ses-0/ieeg/sub-R1286J_ses-0_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "7ed4246d4460c149899469e3eb7a370cbf74eef6be69e91985427dfed3e34be2"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1286J/ses-1/ieeg/sub-R1286J_ses-1_task-catFR3_events.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1286J/ses-1/ieeg/sub-R1286J_ses-1_task-catFR3_events.tsv",
+      "sha256": "8360d0c892b04dc8b21e699a7df0e6401483173b747d519f913ff2ba0e59269c"
+    },
+    {
+      "path": "ram_closedloop/ds005558/sub-R1286J/ses-1/ieeg/sub-R1286J_ses-1_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds005558/5224509a4360d3de022326982b99bf4236ab644b/sub-R1286J/ses-1/ieeg/sub-R1286J_ses-1_task-catFR3_space-MNI152NLin6ASym_electrodes.tsv",
+      "sha256": "7ed4246d4460c149899469e3eb7a370cbf74eef6be69e91985427dfed3e34be2"
+    }
+  ],
+  "mica": [
+    {
+      "path": "mica_mics/micapipe_MICs_v1.1.zip",
+      "url": "https://osf.io/download/x7qr2/",
+      "sha256": "ac7047195401cdd3d85d4f4cd431ba6b25dce2cda4a51f50e5c8caebd20ab348"
+    }
+  ]
+}

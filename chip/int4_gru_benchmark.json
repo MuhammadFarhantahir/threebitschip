@@ -1,0 +1,17 @@
+{
+  "minival_r2_pytorch_w4a32": 0.8192234933376312,
+  "minival_r2_c99_w4a8_int": 0.8190551598866781,
+  "minival_gap": -0.00016833345095312868,
+  "heldout_6wk_adapter_pytorch_w4a32": 0.31335138423102243,
+  "heldout_6wk_adapter_c99_w4a8_int": 0.31779366731643677,
+  "heldout_gap": 0.004442283085414334,
+  "reverse_control_c99": -0.4911249258688518,
+  "weight_rom_bytes": 58816,
+  "bias_bytes": 3100,
+  "lut_bytes": 1028,
+  "sram_bytes": 3404,
+  "total_bytes": 66348,
+  "macs_per_20ms_step": 117632,
+  "mmacs_per_sec_50hz": 5.8816,
+  "latency_us_per_step_apple_arm64": 14.306493749609217
+}

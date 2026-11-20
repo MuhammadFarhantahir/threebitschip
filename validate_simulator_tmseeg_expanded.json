@@ -1,0 +1,142 @@
+{
+  "dataset": "OpenNeuro ds008037 (CC0, Biabani & Rogasch)",
+  "n_subjects": 47,
+  "n_electrodes": 62,
+  "results": {
+    "CCEP-calibrated Hopf (invasive -> non-invasive zero-shot)": {
+      "per_site_partial_given_dist": {
+        "prefrontal": 0.2795419823507577,
+        "parietal": 0.2229925467739795
+      },
+      "per_site_raw_spearman": {
+        "prefrontal": 0.49097227468459625,
+        "parietal": -0.1785651330865503
+      },
+      "mean_per_site_partial_given_dist": 0.2512672645623686,
+      "zpooled_partial_given_dist": 0.08708113358896488,
+      "spearman_site_contrast_35_100ms": 0.23853973249409907,
+      "spearman_site_contrast_45_150ms": 0.17258851298190397,
+      "indiv_mean_partial_given_dist": 0.2472713364424408,
+      "indiv_positive_count": 44,
+      "indiv_n": 46
+    },
+    "Untuned anatomy-Hopf (1 param g on dMRI)": {
+      "per_site_partial_given_dist": {
+        "prefrontal": 0.36585861922238144,
+        "parietal": 0.082208514361453
+      },
+      "per_site_raw_spearman": {
+        "prefrontal": 0.5140892951575131,
+        "parietal": -0.21004255747777695
+      },
+      "mean_per_site_partial_given_dist": 0.22403356679191722,
+      "zpooled_partial_given_dist": 0.07707853529057627,
+      "spearman_site_contrast_35_100ms": 0.2904358772619984,
+      "spearman_site_contrast_45_150ms": 0.20796852871754523,
+      "indiv_mean_partial_given_dist": 0.21526632765094772,
+      "indiv_positive_count": 45,
+      "indiv_n": 46
+    },
+    "Resting-fMRI-tuned Hopf (observational)": {
+      "per_site_partial_given_dist": {
+        "prefrontal": 0.25553810360351364,
+        "parietal": 0.36045247681108894
+      },
+      "per_site_raw_spearman": {
+        "prefrontal": 0.49313792148271257,
+        "parietal": -0.12291304676286167
+      },
+      "mean_per_site_partial_given_dist": 0.3079952902073013,
+      "zpooled_partial_given_dist": 0.2158054617263576,
+      "spearman_site_contrast_35_100ms": -0.08569630212431156,
+      "spearman_site_contrast_45_150ms": -0.0930354051927616,
+      "indiv_mean_partial_given_dist": 0.13131597656929622,
+      "indiv_positive_count": 34,
+      "indiv_n": 46
+    },
+    "Rewired white-matter control": {
+      "per_site_partial_given_dist": {
+        "prefrontal": 0.34222279208600437,
+        "parietal": -0.07636223355792666
+      },
+      "per_site_raw_spearman": {
+        "prefrontal": 0.5092039988919947,
+        "parietal": -0.18002568557830326
+      },
+      "mean_per_site_partial_given_dist": 0.13293027926403886,
+      "zpooled_partial_given_dist": 0.1381126814482071,
+      "spearman_site_contrast_35_100ms": 0.22659323367427217,
+      "spearman_site_contrast_45_150ms": 0.2206892210857592,
+      "indiv_mean_partial_given_dist": 0.027694723336237542,
+      "indiv_positive_count": 26,
+      "indiv_n": 46
+    },
+    "Wrong-site negative control (permuted targets)": {
+      "per_site_partial_given_dist": {
+        "prefrontal": -0.34362733691514036,
+        "parietal": -0.12580664684203843
+      },
+      "per_site_raw_spearman": {
+        "prefrontal": -0.3511117826294981,
+        "parietal": -0.026466218428143336
+      },
+      "mean_per_site_partial_given_dist": -0.2347169918785894,
+      "zpooled_partial_given_dist": -0.18953056567744694,
+      "spearman_site_contrast_35_100ms": -0.23853973249409907,
+      "spearman_site_contrast_45_150ms": -0.17258851298190397,
+      "indiv_mean_partial_given_dist": -0.13612983643284615,
+      "indiv_positive_count": 9,
+      "indiv_n": 46
+    },
+    "Coil-distance-only null (no connectome)": {
+      "per_site_partial_given_dist": {
+        "prefrontal": -0.011945079446747858,
+        "parietal": -0.008172936971113673
+      },
+      "per_site_raw_spearman": {
+        "prefrontal": 0.4395003903200625,
+        "parietal": -0.271839037042633
+      },
+      "mean_per_site_partial_given_dist": -0.010059008208930766,
+      "zpooled_partial_given_dist": -0.3153800765353595,
+      "spearman_site_contrast_35_100ms": 0.2466970889063729,
+      "spearman_site_contrast_45_150ms": 0.19469394177812743,
+      "indiv_mean_partial_given_dist": 0.0008177941770960764,
+      "indiv_positive_count": 17,
+      "indiv_n": 46
+    }
+  },
+  "remote_gt45mm": {
+    "CCEP-calibrated Hopf (invasive -> non-invasive zero-shot)": {
+      "remote_rho": -0.11319761319761319,
+      "remote_site_contrast_rho": 0.16765531765531766
+    },
+    "Untuned anatomy-Hopf (1 param g on dMRI)": {
+      "remote_rho": -0.06484731484731485,
+      "remote_site_contrast_rho": 0.229010179010179
+    },
+    "Resting-fMRI-tuned Hopf (observational)": {
+      "remote_rho": -0.3463846963846963,
+      "remote_site_contrast_rho": -0.14618287118287115
+    },
+    "Rewired white-matter control": {
+      "remote_rho": -0.10606353106353106,
+      "remote_site_contrast_rho": 0.14658652158652155
+    },
+    "Wrong-site negative control (permuted targets)": {
+      "remote_rho": 0.010003510003510003,
+      "remote_site_contrast_rho": -0.16765531765531766
+    },
+    "Coil-distance-only null (no connectome)": {
+      "remote_rho": -0.13387153387153386,
+      "remote_site_contrast_rho": 0.18121270621270621
+    }
+  },
+  "dataset_doi": "10.18112/openneuro.ds008037.v1.0.1",
+  "n_conditions_passing_qc": 140,
+  "n_conditions_evaluated": 141,
+  "active_sites": [
+    "prefrontal",
+    "parietal"
+  ]
+}

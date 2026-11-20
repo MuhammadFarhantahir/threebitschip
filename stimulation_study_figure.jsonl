@@ -1,0 +1,350 @@
+{"stimulator": "network", "rest_reach": 0.5496396176459231, "reach_change": -0.0031024271115204505, "person": "Model 10"}
+{"stimulator": "network", "rest_reach": 0.28356117452883967, "reach_change": 0.07659134158878056, "person": "Model 08"}
+{"stimulator": "network", "rest_reach": 0.5834071667977418, "reach_change": -0.0501440187204146, "person": "Model 07"}
+{"stimulator": "network", "rest_reach": 0.283768826171985, "reach_change": 0.03132982344201028, "person": "Model 04"}
+{"stimulator": "network", "rest_reach": 0.2978775534883636, "reach_change": 0.08188668987720464, "person": "Model 09"}
+{"stimulator": "network", "rest_reach": 0.4381806296776678, "reach_change": 0.007307494851823323, "person": "Model 12"}
+{"stimulator": "network", "rest_reach": 0.5536940991329633, "reach_change": 0.002890362193817473, "person": "Model 05"}
+{"stimulator": "network", "rest_reach": 0.47000245575354604, "reach_change": -0.00015337771486959636, "person": "Model 11"}
+{"stimulator": "network", "rest_reach": 0.4963219767480986, "reach_change": -0.0017397277061882337, "person": "Model 03"}
+{"stimulator": "network", "rest_reach": 0.4567685808124825, "reach_change": 0.007963696889953575, "person": "Model 02"}
+{"stimulator": "network", "rest_reach": 0.22368067485469795, "reach_change": 0.0646997830828217, "person": "Model 01"}
+{"stimulator": "network", "rest_reach": 0.5209062631346799, "reach_change": -0.0040384861929649695, "person": "Model 06"}
+{"stimulator": "network", "rest_reach": 0.6671183788463761, "reach_change": -0.009491291623872905, "person": "Model 14"}
+{"stimulator": "network", "rest_reach": 0.4839861168117475, "reach_change": 0.021204632633338667, "person": "Model 13"}
+{"stimulator": "network", "rest_reach": 0.4767537877176382, "reach_change": -0.001908324649773743, "person": "Model 16"}
+{"stimulator": "network", "rest_reach": 0.31427024110633894, "reach_change": 0.039595283969342095, "person": "Model 17"}
+{"stimulator": "network", "rest_reach": 0.6031870331838582, "reach_change": 0.00046768409286652383, "person": "Model 15"}
+{"stimulator": "network", "rest_reach": 0.6653724160041224, "reach_change": 0.013409864991465124, "person": "Model 20"}
+{"stimulator": "network", "rest_reach": 0.45807665046516527, "reach_change": 0.002598981468506998, "person": "Model 21"}
+{"stimulator": "network", "rest_reach": 0.4259662981053993, "reach_change": 0.01754225101438936, "person": "Model 18"}
+{"stimulator": "network", "rest_reach": 0.7327183999120175, "reach_change": -0.007628460411564579, "person": "Model 19"}
+{"stimulator": "network", "rest_reach": 0.36130207908140105, "reach_change": 0.02216379408670639, "person": "Model 22"}
+{"stimulator": "network", "rest_reach": 0.36510448128216844, "reach_change": 0.06772704430433049, "person": "Model 24"}
+{"stimulator": "network", "rest_reach": 0.52331337153128, "reach_change": -0.02233981766260493, "person": "Model 23"}
+{"stimulator": "network", "rest_reach": 0.591580546741432, "reach_change": -0.0011046988992433875, "person": "Model 26"}
+{"stimulator": "network", "rest_reach": 0.5616904179899433, "reach_change": 0.012021717226019567, "person": "Model 25"}
+{"stimulator": "network", "rest_reach": 0.2926555692981507, "reach_change": 0.10440835959764852, "person": "Model 28"}
+{"stimulator": "network", "rest_reach": 0.4936723673985403, "reach_change": -0.003739639718939614, "person": "Model 29"}
+{"stimulator": "network", "rest_reach": 0.689029572439853, "reach_change": -0.00030515066221084835, "person": "Model 27"}
+{"stimulator": "network", "rest_reach": 0.39594908021399944, "reach_change": 0.02024587259843822, "person": "Model 30"}
+{"stimulator": "network", "rest_reach": 0.2699314176540458, "reach_change": 0.017641182861244213, "person": "Model 31"}
+{"stimulator": "network", "rest_reach": 0.4137902015832932, "reach_change": 0.02398941240851714, "person": "Model 34"}
+{"stimulator": "network", "rest_reach": 0.6522570184396975, "reach_change": -0.014189430126092747, "person": "Model 33"}
+{"stimulator": "network", "rest_reach": 0.5925347680212606, "reach_change": -0.013134883888962393, "person": "Model 32"}
+{"stimulator": "network", "rest_reach": 0.5758841386460655, "reach_change": -0.006824090871906782, "person": "Model 35"}
+{"stimulator": "network", "rest_reach": 0.5284377199441503, "reach_change": -0.00028366861468307955, "person": "Model 36"}
+{"stimulator": "network", "rest_reach": 0.6598950082492145, "reach_change": -0.005635050272778721, "person": "Model 37"}
+{"stimulator": "network", "rest_reach": 0.6232363880830412, "reach_change": -0.007456363422258504, "person": "Model 38"}
+{"stimulator": "network", "rest_reach": 0.5239478415514707, "reach_change": -0.014851421150334738, "person": "Model 39"}
+{"stimulator": "network", "rest_reach": 0.5313599605883002, "reach_change": -0.008069017471573722, "person": "Model 40"}
+{"stimulator": "network", "rest_reach": 0.22933025955251865, "reach_change": 0.043518293579559636, "person": "Model 41"}
+{"stimulator": "network", "rest_reach": 0.3001645679785586, "reach_change": 0.10546763415592003, "person": "Model 43"}
+{"stimulator": "network", "rest_reach": 0.526504691098951, "reach_change": -0.002920692988284743, "person": "Model 42"}
+{"stimulator": "network", "rest_reach": 0.5563424715800088, "reach_change": -0.01308582135183156, "person": "Model 44"}
+{"stimulator": "network", "rest_reach": 0.6110381231851106, "reach_change": 0.00029851128824718003, "person": "Model 46"}
+{"stimulator": "network", "rest_reach": 0.47865421576469613, "reach_change": 0.008262584384984988, "person": "Model 45"}
+{"stimulator": "network", "rest_reach": 0.4601132755828906, "reach_change": 0.013552501915916067, "person": "Model 47"}
+{"stimulator": "network", "rest_reach": 0.4644185426652535, "reach_change": 0.02529022876919889, "person": "Model 48"}
+{"stimulator": "linear", "rest_reach": 0.22368067485469795, "reach_change": 0.1517865258355714, "person": "Model 01"}
+{"stimulator": "linear", "rest_reach": 0.4963219767480986, "reach_change": 0.04822800228670277, "person": "Model 03"}
+{"stimulator": "linear", "rest_reach": 0.4567685808124825, "reach_change": 0.05381381460984791, "person": "Model 02"}
+{"stimulator": "linear", "rest_reach": 0.283768826171985, "reach_change": 0.10234512418280325, "person": "Model 04"}
+{"stimulator": "linear", "rest_reach": 0.5536940991329633, "reach_change": 0.0352117053249401, "person": "Model 05"}
+{"stimulator": "linear", "rest_reach": 0.5209062631346799, "reach_change": 0.03087221515894265, "person": "Model 06"}
+{"stimulator": "linear", "rest_reach": 0.5834071667977418, "reach_change": -0.05642809622664691, "person": "Model 07"}
+{"stimulator": "linear", "rest_reach": 0.28356117452883967, "reach_change": 0.14595499718701216, "person": "Model 08"}
+{"stimulator": "linear", "rest_reach": 0.2978775534883636, "reach_change": 0.10756898360325838, "person": "Model 09"}
+{"stimulator": "linear", "rest_reach": 0.5496396176459231, "reach_change": 0.03100244773003511, "person": "Model 10"}
+{"stimulator": "network", "rest_reach": 0.2814127133754726, "reach_change": 0.001425040542832171, "person": "Model 49"}
+{"stimulator": "network", "rest_reach": 0.36099645890651844, "reach_change": -0.005614272573220782, "person": "Model 50"}
+{"stimulator": "linear", "rest_reach": 0.47000245575354604, "reach_change": 0.05336458850297135, "person": "Model 11"}
+{"stimulator": "linear", "rest_reach": 0.4381806296776678, "reach_change": 0.028116424505301735, "person": "Model 12"}
+{"stimulator": "linear", "rest_reach": 0.4839861168117475, "reach_change": 0.08928699320819117, "person": "Model 13"}
+{"stimulator": "linear", "rest_reach": 0.6671183788463761, "reach_change": 0.02996712315918836, "person": "Model 14"}
+{"stimulator": "linear", "rest_reach": 0.6031870331838582, "reach_change": 0.04100518204071371, "person": "Model 15"}
+{"stimulator": "linear", "rest_reach": 0.31427024110633894, "reach_change": 0.16200926797989795, "person": "Model 17"}
+{"stimulator": "linear", "rest_reach": 0.4767537877176382, "reach_change": 0.06862641667399155, "person": "Model 16"}
+{"stimulator": "linear", "rest_reach": 0.4259662981053993, "reach_change": 0.11580492430308874, "person": "Model 18"}
+{"stimulator": "linear", "rest_reach": 0.7327183999120175, "reach_change": 0.022267033578247053, "person": "Model 19"}
+{"stimulator": "linear", "rest_reach": 0.6653724160041224, "reach_change": 0.042570086524998885, "person": "Model 20"}
+{"stimulator": "linear", "rest_reach": 0.45807665046516527, "reach_change": 0.020462886272841818, "person": "Model 21"}
+{"stimulator": "linear", "rest_reach": 0.36130207908140105, "reach_change": 0.1351470614462611, "person": "Model 22"}
+{"stimulator": "linear", "rest_reach": 0.36510448128216844, "reach_change": 0.11281081676595982, "person": "Model 24"}
+{"stimulator": "linear", "rest_reach": 0.52331337153128, "reach_change": -0.007709934793046005, "person": "Model 23"}
+{"stimulator": "linear", "rest_reach": 0.5616904179899433, "reach_change": 0.03257878605667492, "person": "Model 25"}
+{"stimulator": "linear", "rest_reach": 0.591580546741432, "reach_change": 0.06162880672577299, "person": "Model 26"}
+{"stimulator": "linear", "rest_reach": 0.689029572439853, "reach_change": -0.04949652225841377, "person": "Model 27"}
+{"stimulator": "linear", "rest_reach": 0.4936723673985403, "reach_change": 0.03460874080319931, "person": "Model 29"}
+{"stimulator": "linear", "rest_reach": 0.2926555692981507, "reach_change": 0.19595803393110878, "person": "Model 28"}
+{"stimulator": "linear", "rest_reach": 0.39594908021399944, "reach_change": 0.08582009310200098, "person": "Model 30"}
+{"stimulator": "linear", "rest_reach": 0.2699314176540458, "reach_change": 0.13602148840450962, "person": "Model 31"}
+{"stimulator": "linear", "rest_reach": 0.5925347680212606, "reach_change": 1.1173669298375141e-05, "person": "Model 32"}
+{"stimulator": "linear", "rest_reach": 0.6522570184396975, "reach_change": -0.07379071548752963, "person": "Model 33"}
+{"stimulator": "linear", "rest_reach": 0.4137902015832932, "reach_change": 0.013009327221489644, "person": "Model 34"}
+{"stimulator": "linear", "rest_reach": 0.5758841386460655, "reach_change": 0.040944799492800284, "person": "Model 35"}
+{"stimulator": "linear", "rest_reach": 0.6598950082492145, "reach_change": 0.0388797534712403, "person": "Model 37"}
+{"stimulator": "linear", "rest_reach": 0.5284377199441503, "reach_change": 0.04229607621212586, "person": "Model 36"}
+{"stimulator": "linear", "rest_reach": 0.6232363880830412, "reach_change": 0.04611900109672495, "person": "Model 38"}
+{"stimulator": "linear", "rest_reach": 0.5239478415514707, "reach_change": 0.0554907351255045, "person": "Model 39"}
+{"stimulator": "linear", "rest_reach": 0.526504691098951, "reach_change": 0.04913294270597002, "person": "Model 42"}
+{"stimulator": "linear", "rest_reach": 0.22933025955251865, "reach_change": 0.09807635282771313, "person": "Model 41"}
+{"stimulator": "linear", "rest_reach": 0.5313599605883002, "reach_change": 0.05069848151965717, "person": "Model 40"}
+{"stimulator": "linear", "rest_reach": 0.3001645679785586, "reach_change": 0.17810310460737758, "person": "Model 43"}
+{"stimulator": "linear", "rest_reach": 0.5563424715800088, "reach_change": 0.04520846933580359, "person": "Model 44"}
+{"stimulator": "linear", "rest_reach": 0.47865421576469613, "reach_change": 0.08222899738319371, "person": "Model 45"}
+{"stimulator": "linear", "rest_reach": 0.6110381231851106, "reach_change": 0.004890570509872474, "person": "Model 46"}
+{"stimulator": "linear", "rest_reach": 0.4644185426652535, "reach_change": 0.07702159261239316, "person": "Model 48"}
+{"stimulator": "linear", "rest_reach": 0.4601132755828906, "reach_change": 0.06706177910332395, "person": "Model 47"}
+{"stimulator": "linear", "rest_reach": 0.2814127133754726, "reach_change": 0.06268157706260474, "person": "Model 49"}
+{"stimulator": "linear", "rest_reach": 0.36099645890651844, "reach_change": 0.07027504064392642, "person": "Model 50"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.22368067485469795, "reach_change": -0.00016944223010785238, "person": "Model 01"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4567685808124825, "reach_change": -0.004870050443184057, "person": "Model 02"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.283768826171985, "reach_change": 5.911926426281763e-05, "person": "Model 04"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4963219767480986, "reach_change": -0.001381910891474639, "person": "Model 03"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5536940991329633, "reach_change": -0.0034709085259153607, "person": "Model 05"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5209062631346799, "reach_change": -0.006933522975403506, "person": "Model 06"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5834071667977418, "reach_change": 0.0005712563496114717, "person": "Model 07"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.28356117452883967, "reach_change": 0.0008674883557859862, "person": "Model 08"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.2978775534883636, "reach_change": -0.0037442609545164126, "person": "Model 09"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5496396176459231, "reach_change": -0.004614327061557739, "person": "Model 10"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.47000245575354604, "reach_change": -0.0035702810080984713, "person": "Model 11"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4381806296776678, "reach_change": -0.0038040246930888385, "person": "Model 12"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4839861168117475, "reach_change": -0.0003729447230385388, "person": "Model 13"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.6671183788463761, "reach_change": -0.001369531872260383, "person": "Model 14"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4767537877176382, "reach_change": -0.001576928954269162, "person": "Model 16"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.6031870331838582, "reach_change": -0.00447214554312287, "person": "Model 15"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.31427024110633894, "reach_change": -0.0025723957667692847, "person": "Model 17"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4259662981053993, "reach_change": -0.0019356339582428696, "person": "Model 18"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.7327183999120175, "reach_change": -0.00640224598855949, "person": "Model 19"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.6653724160041224, "reach_change": -0.0016476863328220657, "person": "Model 20"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.45807665046516527, "reach_change": -0.002403804971827226, "person": "Model 21"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.36130207908140105, "reach_change": -0.004954517358353532, "person": "Model 22"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.36510448128216844, "reach_change": -0.0007063042523878021, "person": "Model 24"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.52331337153128, "reach_change": -0.00128679058826412, "person": "Model 23"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5616904179899433, "reach_change": -0.004402648200157684, "person": "Model 25"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.591580546741432, "reach_change": -0.0030454339691188504, "person": "Model 26"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.2926555692981507, "reach_change": -0.0039328173643897076, "person": "Model 28"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.689029572439853, "reach_change": 0.001117200008568458, "person": "Model 27"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4936723673985403, "reach_change": -0.005112604619615474, "person": "Model 29"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.39594908021399944, "reach_change": 0.01505454282734521, "person": "Model 30"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.2699314176540458, "reach_change": 0.005011551637977082, "person": "Model 31"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5925347680212606, "reach_change": -0.008983782912149098, "person": "Model 32"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.6522570184396975, "reach_change": -0.006574426220224445, "person": "Model 33"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4137902015832932, "reach_change": 0.0015196374495588041, "person": "Model 34"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5284377199441503, "reach_change": 0.0012278030382255898, "person": "Model 36"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5758841386460655, "reach_change": -0.004668259118284122, "person": "Model 35"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.6232363880830412, "reach_change": 0.0032450176303734915, "person": "Model 38"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.6598950082492145, "reach_change": -0.0039661287855747756, "person": "Model 37"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5239478415514707, "reach_change": -0.002186620866507594, "person": "Model 39"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.22933025955251865, "reach_change": -0.002791643262233879, "person": "Model 41"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5313599605883002, "reach_change": -0.004567954972745819, "person": "Model 40"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.526504691098951, "reach_change": 0.0009208553636260684, "person": "Model 42"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.3001645679785586, "reach_change": 0.003662139170337066, "person": "Model 43"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.5563424715800088, "reach_change": -0.0009679539864738866, "person": "Model 44"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.47865421576469613, "reach_change": -0.0032433186391229466, "person": "Model 45"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.6110381231851106, "reach_change": 0.008046200714822566, "person": "Model 46"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4601132755828906, "reach_change": -0.0024781647836247373, "person": "Model 47"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.4644185426652535, "reach_change": -0.0021539686032597443, "person": "Model 48"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.2814127133754726, "reach_change": -0.0024469621115951207, "person": "Model 49"}
+{"stimulator": "fixed rhythm", "rest_reach": 0.36099645890651844, "reach_change": -0.002490730939004476, "person": "Model 50"}
+{"stimulator": "network", "rest_reach": 0.22368067485469795, "reach_change": 0.1126776765827621, "person": "Model 01"}
+{"stimulator": "network", "rest_reach": 0.4963219767480986, "reach_change": 0.0030625433784560764, "person": "Model 03"}
+{"stimulator": "network", "rest_reach": 0.4567685808124825, "reach_change": 0.02160328428722446, "person": "Model 02"}
+{"stimulator": "network", "rest_reach": 0.283768826171985, "reach_change": 0.042944633541280516, "person": "Model 04"}
+{"stimulator": "network", "rest_reach": 0.5536940991329633, "reach_change": 0.0029974287975047106, "person": "Model 05"}
+{"stimulator": "network", "rest_reach": 0.5209062631346799, "reach_change": -0.006206697111348792, "person": "Model 06"}
+{"stimulator": "network", "rest_reach": 0.5834071667977418, "reach_change": -0.030984361137288488, "person": "Model 07"}
+{"stimulator": "network", "rest_reach": 0.28356117452883967, "reach_change": 0.10006913398954592, "person": "Model 08"}
+{"stimulator": "network", "rest_reach": 0.2978775534883636, "reach_change": 0.09117735636093988, "person": "Model 09"}
+{"stimulator": "network", "rest_reach": 0.5496396176459231, "reach_change": 0.002336292707365283, "person": "Model 10"}
+{"stimulator": "network", "rest_reach": 0.47000245575354604, "reach_change": 0.017586953871030875, "person": "Model 11"}
+{"stimulator": "network", "rest_reach": 0.4381806296776678, "reach_change": 0.003941394613539666, "person": "Model 12"}
+{"stimulator": "network", "rest_reach": 0.4839861168117475, "reach_change": -0.016673095768175234, "person": "Model 13"}
+{"stimulator": "network", "rest_reach": 0.4767537877176382, "reach_change": 0.0016146498445972317, "person": "Model 16"}
+{"stimulator": "network", "rest_reach": 0.6671183788463761, "reach_change": 0.009762585232761776, "person": "Model 14"}
+{"stimulator": "network", "rest_reach": 0.6031870331838582, "reach_change": 0.00033634601246618125, "person": "Model 15"}
+{"stimulator": "network", "rest_reach": 0.31427024110633894, "reach_change": 0.08920108011245484, "person": "Model 17"}
+{"stimulator": "network", "rest_reach": 0.4259662981053993, "reach_change": 0.08035229002013507, "person": "Model 18"}
+{"stimulator": "network", "rest_reach": 0.7327183999120175, "reach_change": 0.00784311782803948, "person": "Model 19"}
+{"stimulator": "network", "rest_reach": 0.6653724160041224, "reach_change": 0.017981242923727166, "person": "Model 20"}
+{"stimulator": "network", "rest_reach": 0.45807665046516527, "reach_change": 0.009300440199192423, "person": "Model 21"}
+{"stimulator": "network", "rest_reach": 0.36130207908140105, "reach_change": 0.01824444401809722, "person": "Model 22"}
+{"stimulator": "network", "rest_reach": 0.52331337153128, "reach_change": 0.006165989575340284, "person": "Model 23"}
+{"stimulator": "network", "rest_reach": 0.36510448128216844, "reach_change": 0.042116030579430266, "person": "Model 24"}
+{"stimulator": "network", "rest_reach": 0.5616904179899433, "reach_change": 0.009306862583458647, "person": "Model 25"}
+{"stimulator": "network", "rest_reach": 0.2926555692981507, "reach_change": 0.11442310882895307, "person": "Model 28"}
+{"stimulator": "network", "rest_reach": 0.591580546741432, "reach_change": 0.0019210875702835853, "person": "Model 26"}
+{"stimulator": "network", "rest_reach": 0.689029572439853, "reach_change": 0.005022102741555116, "person": "Model 27"}
+{"stimulator": "network", "rest_reach": 0.4936723673985403, "reach_change": 0.022497788353253924, "person": "Model 29"}
+{"stimulator": "network", "rest_reach": 0.39594908021399944, "reach_change": 0.05539106999716807, "person": "Model 30"}
+{"stimulator": "network", "rest_reach": 0.2699314176540458, "reach_change": 0.10377600262454584, "person": "Model 31"}
+{"stimulator": "network", "rest_reach": 0.5925347680212606, "reach_change": -0.00905387210676461, "person": "Model 32"}
+{"stimulator": "network", "rest_reach": 0.4137902015832932, "reach_change": 0.04028620883207141, "person": "Model 34"}
+{"stimulator": "network", "rest_reach": 0.6522570184396975, "reach_change": 0.2672676396586795, "person": "Model 33"}
+{"stimulator": "network", "rest_reach": 0.5758841386460655, "reach_change": -0.015178877242981993, "person": "Model 35"}
+{"stimulator": "network", "rest_reach": 0.5284377199441503, "reach_change": 0.007760129554134533, "person": "Model 36"}
+{"stimulator": "network", "rest_reach": 0.5239478415514707, "reach_change": 0.022639455219475232, "person": "Model 39"}
+{"stimulator": "network", "rest_reach": 0.5313599605883002, "reach_change": 0.0032061396446887575, "person": "Model 40"}
+{"stimulator": "network", "rest_reach": 0.6232363880830412, "reach_change": 0.01640659934532444, "person": "Model 38"}
+{"stimulator": "network", "rest_reach": 0.6598950082492145, "reach_change": -0.005981336662403037, "person": "Model 37"}
+{"stimulator": "network", "rest_reach": 0.22933025955251865, "reach_change": 0.10621699033828488, "person": "Model 41"}
+{"stimulator": "network", "rest_reach": 0.526504691098951, "reach_change": 0.013713237204573677, "person": "Model 42"}
+{"stimulator": "network", "rest_reach": 0.3001645679785586, "reach_change": 0.11404331030251977, "person": "Model 43"}
+{"stimulator": "network", "rest_reach": 0.5563424715800088, "reach_change": -0.013155919489664984, "person": "Model 44"}
+{"stimulator": "network", "rest_reach": 0.47865421576469613, "reach_change": 0.020527630534829144, "person": "Model 45"}
+{"stimulator": "network", "rest_reach": 0.6110381231851106, "reach_change": 0.006308947861649417, "person": "Model 46"}
+{"stimulator": "network", "rest_reach": 0.4601132755828906, "reach_change": 0.013474378912774448, "person": "Model 47"}
+{"stimulator": "network", "rest_reach": 0.4644185426652535, "reach_change": 0.022612297392795078, "person": "Model 48"}
+{"stimulator": "linear", "rest_reach": 0.4963219767480986, "reach_change": 0.005826385920679594, "person": "Model 03"}
+{"stimulator": "linear", "rest_reach": 0.22368067485469795, "reach_change": 0.14635907544393706, "person": "Model 01"}
+{"stimulator": "linear", "rest_reach": 0.4567685808124825, "reach_change": 0.0820590693929607, "person": "Model 02"}
+{"stimulator": "linear", "rest_reach": 0.283768826171985, "reach_change": 0.1099551804705576, "person": "Model 04"}
+{"stimulator": "network", "rest_reach": 0.2814127133754726, "reach_change": 0.025199889676255652, "person": "Model 49"}
+{"stimulator": "linear", "rest_reach": 0.5536940991329633, "reach_change": 0.06788343940829941, "person": "Model 05"}
+{"stimulator": "network", "rest_reach": 0.36099645890651844, "reach_change": 0.03367687674343052, "person": "Model 50"}
+{"stimulator": "linear", "rest_reach": 0.5209062631346799, "reach_change": 0.08478837496555766, "person": "Model 06"}
+{"stimulator": "linear", "rest_reach": 0.5834071667977418, "reach_change": -0.006004511401320823, "person": "Model 07"}
+{"stimulator": "linear", "rest_reach": 0.28356117452883967, "reach_change": 0.11856252659270876, "person": "Model 08"}
+{"stimulator": "linear", "rest_reach": 0.2978775534883636, "reach_change": 0.07328542781289313, "person": "Model 09"}
+{"stimulator": "linear", "rest_reach": 0.5496396176459231, "reach_change": 0.03370323636655983, "person": "Model 10"}
+{"stimulator": "linear", "rest_reach": 0.47000245575354604, "reach_change": 0.05979055842886687, "person": "Model 11"}
+{"stimulator": "linear", "rest_reach": 0.4839861168117475, "reach_change": 0.06748394007819175, "person": "Model 13"}
+{"stimulator": "linear", "rest_reach": 0.4381806296776678, "reach_change": 0.03579550206217545, "person": "Model 12"}
+{"stimulator": "linear", "rest_reach": 0.6671183788463761, "reach_change": 0.016935757484082624, "person": "Model 14"}
+{"stimulator": "linear", "rest_reach": 0.4767537877176382, "reach_change": 0.046477560811864965, "person": "Model 16"}
+{"stimulator": "linear", "rest_reach": 0.6031870331838582, "reach_change": 0.028300014811509705, "person": "Model 15"}
+{"stimulator": "linear", "rest_reach": 0.31427024110633894, "reach_change": 0.11215522021086054, "person": "Model 17"}
+{"stimulator": "linear", "rest_reach": 0.7327183999120175, "reach_change": 0.019671765084508512, "person": "Model 19"}
+{"stimulator": "linear", "rest_reach": 0.6653724160041224, "reach_change": -0.17906401669389954, "person": "Model 20"}
+{"stimulator": "linear", "rest_reach": 0.4259662981053993, "reach_change": 0.16067937668954516, "person": "Model 18"}
+{"stimulator": "linear", "rest_reach": 0.45807665046516527, "reach_change": 0.08459912818155116, "person": "Model 21"}
+{"stimulator": "linear", "rest_reach": 0.36130207908140105, "reach_change": 0.0459499172244132, "person": "Model 22"}
+{"stimulator": "linear", "rest_reach": 0.52331337153128, "reach_change": 0.028147193869336607, "person": "Model 23"}
+{"stimulator": "linear", "rest_reach": 0.36510448128216844, "reach_change": 0.12226936760210537, "person": "Model 24"}
+{"stimulator": "linear", "rest_reach": 0.5616904179899433, "reach_change": 0.016637086956228078, "person": "Model 25"}
+{"stimulator": "linear", "rest_reach": 0.591580546741432, "reach_change": 0.014696355661824093, "person": "Model 26"}
+{"stimulator": "linear", "rest_reach": 0.689029572439853, "reach_change": -0.007456665392894792, "person": "Model 27"}
+{"stimulator": "linear", "rest_reach": 0.2926555692981507, "reach_change": 0.12739388471000163, "person": "Model 28"}
+{"stimulator": "linear", "rest_reach": 0.4936723673985403, "reach_change": 0.03368565995436869, "person": "Model 29"}
+{"stimulator": "linear", "rest_reach": 0.2699314176540458, "reach_change": 0.13777642688846983, "person": "Model 31"}
+{"stimulator": "linear", "rest_reach": 0.39594908021399944, "reach_change": 0.08477604674469699, "person": "Model 30"}
+{"stimulator": "linear", "rest_reach": 0.5925347680212606, "reach_change": 0.022838607593434535, "person": "Model 32"}
+{"stimulator": "linear", "rest_reach": 0.4137902015832932, "reach_change": 0.053649356235139445, "person": "Model 34"}
+{"stimulator": "linear", "rest_reach": 0.6522570184396975, "reach_change": 0.004761692605935678, "person": "Model 33"}
+{"stimulator": "linear", "rest_reach": 0.5758841386460655, "reach_change": 0.005386332591811015, "person": "Model 35"}
+{"stimulator": "linear", "rest_reach": 0.5284377199441503, "reach_change": 0.08839481239465596, "person": "Model 36"}
+{"stimulator": "linear", "rest_reach": 0.6598950082492145, "reach_change": -0.015511441885451692, "person": "Model 37"}
+{"stimulator": "linear", "rest_reach": 0.6232363880830412, "reach_change": 0.011247268735041999, "person": "Model 38"}
+{"stimulator": "linear", "rest_reach": 0.5313599605883002, "reach_change": 0.051148157981348884, "person": "Model 40"}
+{"stimulator": "linear", "rest_reach": 0.5239478415514707, "reach_change": 0.06365428796396858, "person": "Model 39"}
+{"stimulator": "linear", "rest_reach": 0.22933025955251865, "reach_change": 0.1187720188018486, "person": "Model 41"}
+{"stimulator": "linear", "rest_reach": 0.526504691098951, "reach_change": -0.011865592821831897, "person": "Model 42"}
+{"stimulator": "linear", "rest_reach": 0.5563424715800088, "reach_change": 0.002141412571342343, "person": "Model 44"}
+{"stimulator": "linear", "rest_reach": 0.3001645679785586, "reach_change": 0.16272169834573108, "person": "Model 43"}
+{"stimulator": "linear", "rest_reach": 0.47865421576469613, "reach_change": 0.09037999413347586, "person": "Model 45"}
+{"stimulator": "linear", "rest_reach": 0.6110381231851106, "reach_change": 0.022594236927347855, "person": "Model 46"}
+{"stimulator": "linear", "rest_reach": 0.4601132755828906, "reach_change": 0.07394043295490385, "person": "Model 47"}
+{"stimulator": "linear", "rest_reach": 0.4644185426652535, "reach_change": 0.08135108083613357, "person": "Model 48"}
+{"stimulator": "linear", "rest_reach": 0.2814127133754726, "reach_change": 0.062451207548887354, "person": "Model 49"}
+{"stimulator": "linear", "rest_reach": 0.36099645890651844, "reach_change": 0.07958579279510039, "person": "Model 50"}
+{"stimulator": "network", "rest_reach": 0.4567685808124825, "reach_change": 0.006431482481714345, "person": "Model 02"}
+{"stimulator": "network", "rest_reach": 0.22368067485469795, "reach_change": 0.0855432859797572, "person": "Model 01"}
+{"stimulator": "network", "rest_reach": 0.4963219767480986, "reach_change": 0.011589970676819087, "person": "Model 03"}
+{"stimulator": "network", "rest_reach": 0.5536940991329633, "reach_change": 0.00845910644505508, "person": "Model 05"}
+{"stimulator": "network", "rest_reach": 0.283768826171985, "reach_change": 0.08261562057202092, "person": "Model 04"}
+{"stimulator": "network", "rest_reach": 0.5209062631346799, "reach_change": -0.0049983721743833455, "person": "Model 06"}
+{"stimulator": "network", "rest_reach": 0.28356117452883967, "reach_change": 0.03265522000723768, "person": "Model 08"}
+{"stimulator": "network", "rest_reach": 0.5834071667977418, "reach_change": 0.007991153740656285, "person": "Model 07"}
+{"stimulator": "network", "rest_reach": 0.2978775534883636, "reach_change": 0.09777360591524006, "person": "Model 09"}
+{"stimulator": "network", "rest_reach": 0.5496396176459231, "reach_change": -0.008876929676681175, "person": "Model 10"}
+{"stimulator": "network", "rest_reach": 0.47000245575354604, "reach_change": 0.00575310646536325, "person": "Model 11"}
+{"stimulator": "network", "rest_reach": 0.4381806296776678, "reach_change": -0.005583488891023729, "person": "Model 12"}
+{"stimulator": "network", "rest_reach": 0.4839861168117475, "reach_change": -0.011887620163365115, "person": "Model 13"}
+{"stimulator": "network", "rest_reach": 0.6671183788463761, "reach_change": -0.0009044487263468234, "person": "Model 14"}
+{"stimulator": "network", "rest_reach": 0.4767537877176382, "reach_change": 0.003217387652331407, "person": "Model 16"}
+{"stimulator": "network", "rest_reach": 0.6031870331838582, "reach_change": 0.001322009225938889, "person": "Model 15"}
+{"stimulator": "network", "rest_reach": 0.31427024110633894, "reach_change": 0.053357678490419676, "person": "Model 17"}
+{"stimulator": "network", "rest_reach": 0.4259662981053993, "reach_change": -0.00032592629529194653, "person": "Model 18"}
+{"stimulator": "network", "rest_reach": 0.6653724160041224, "reach_change": -0.04575077481259877, "person": "Model 20"}
+{"stimulator": "network", "rest_reach": 0.7327183999120175, "reach_change": -0.02355861791117248, "person": "Model 19"}
+{"stimulator": "network", "rest_reach": 0.45807665046516527, "reach_change": -0.00720929503978972, "person": "Model 21"}
+{"stimulator": "network", "rest_reach": 0.36130207908140105, "reach_change": 0.013504007960409927, "person": "Model 22"}
+{"stimulator": "network", "rest_reach": 0.52331337153128, "reach_change": -0.006074904798984917, "person": "Model 23"}
+{"stimulator": "network", "rest_reach": 0.36510448128216844, "reach_change": 9.613694441497735e-05, "person": "Model 24"}
+{"stimulator": "network", "rest_reach": 0.5616904179899433, "reach_change": 0.0001438687716116922, "person": "Model 25"}
+{"stimulator": "network", "rest_reach": 0.591580546741432, "reach_change": -0.0031491183953778886, "person": "Model 26"}
+{"stimulator": "network", "rest_reach": 0.689029572439853, "reach_change": 0.0029310641165181265, "person": "Model 27"}
+{"stimulator": "network", "rest_reach": 0.4936723673985403, "reach_change": 0.003526837451955994, "person": "Model 29"}
+{"stimulator": "network", "rest_reach": 0.39594908021399944, "reach_change": 0.042458385187003816, "person": "Model 30"}
+{"stimulator": "network", "rest_reach": 0.2926555692981507, "reach_change": 0.07620913354137204, "person": "Model 28"}
+{"stimulator": "network", "rest_reach": 0.6522570184396975, "reach_change": -0.0008551707524036452, "person": "Model 33"}
+{"stimulator": "network", "rest_reach": 0.5925347680212606, "reach_change": -0.016394503171617288, "person": "Model 32"}
+{"stimulator": "network", "rest_reach": 0.2699314176540458, "reach_change": 0.07830178177097892, "person": "Model 31"}
+{"stimulator": "network", "rest_reach": 0.4137902015832932, "reach_change": 0.015426945423815164, "person": "Model 34"}
+{"stimulator": "network", "rest_reach": 0.5284377199441503, "reach_change": 0.003190923627959099, "person": "Model 36"}
+{"stimulator": "network", "rest_reach": 0.5758841386460655, "reach_change": 0.0020870065494081585, "person": "Model 35"}
+{"stimulator": "network", "rest_reach": 0.6598950082492145, "reach_change": -0.01066796414111822, "person": "Model 37"}
+{"stimulator": "network", "rest_reach": 0.6232363880830412, "reach_change": -0.006529884524822948, "person": "Model 38"}
+{"stimulator": "network", "rest_reach": 0.5239478415514707, "reach_change": -0.009148488891713533, "person": "Model 39"}
+{"stimulator": "network", "rest_reach": 0.5313599605883002, "reach_change": 0.009199612458795374, "person": "Model 40"}
+{"stimulator": "network", "rest_reach": 0.22933025955251865, "reach_change": 0.08829470927772898, "person": "Model 41"}
+{"stimulator": "network", "rest_reach": 0.526504691098951, "reach_change": -0.012578659677172442, "person": "Model 42"}
+{"stimulator": "network", "rest_reach": 0.3001645679785586, "reach_change": 0.067426488949959, "person": "Model 43"}
+{"stimulator": "network", "rest_reach": 0.5563424715800088, "reach_change": -0.010610062254935137, "person": "Model 44"}
+{"stimulator": "network", "rest_reach": 0.47865421576469613, "reach_change": 0.006285366270187371, "person": "Model 45"}
+{"stimulator": "network", "rest_reach": 0.6110381231851106, "reach_change": -0.006918754552636564, "person": "Model 46"}
+{"stimulator": "network", "rest_reach": 0.4601132755828906, "reach_change": 0.0011468030478526442, "person": "Model 47"}
+{"stimulator": "network", "rest_reach": 0.4644185426652535, "reach_change": 0.009792609881578323, "person": "Model 48"}
+{"stimulator": "linear", "rest_reach": 0.22368067485469795, "reach_change": 0.15533580885042014, "person": "Model 01"}
+{"stimulator": "linear", "rest_reach": 0.4567685808124825, "reach_change": 0.06581594816537549, "person": "Model 02"}
+{"stimulator": "linear", "rest_reach": 0.283768826171985, "reach_change": 0.1311094201579089, "person": "Model 04"}
+{"stimulator": "linear", "rest_reach": 0.4963219767480986, "reach_change": 0.010113250479533945, "person": "Model 03"}
+{"stimulator": "linear", "rest_reach": 0.5536940991329633, "reach_change": 0.04359567737134633, "person": "Model 05"}
+{"stimulator": "linear", "rest_reach": 0.5209062631346799, "reach_change": 0.09006060037162347, "person": "Model 06"}
+{"stimulator": "linear", "rest_reach": 0.5834071667977418, "reach_change": 0.008435625416648995, "person": "Model 07"}
+{"stimulator": "linear", "rest_reach": 0.2978775534883636, "reach_change": 0.11953667617226177, "person": "Model 09"}
+{"stimulator": "linear", "rest_reach": 0.28356117452883967, "reach_change": 0.11225613393586857, "person": "Model 08"}
+{"stimulator": "network", "rest_reach": 0.2814127133754726, "reach_change": 0.005328473107797, "person": "Model 49"}
+{"stimulator": "linear", "rest_reach": 0.5496396176459231, "reach_change": 0.05398835814184046, "person": "Model 10"}
+{"stimulator": "network", "rest_reach": 0.36099645890651844, "reach_change": 0.019496048010526, "person": "Model 50"}
+{"stimulator": "linear", "rest_reach": 0.47000245575354604, "reach_change": 0.08479033121676119, "person": "Model 11"}
+{"stimulator": "linear", "rest_reach": 0.4381806296776678, "reach_change": 0.035587461932235984, "person": "Model 12"}
+{"stimulator": "linear", "rest_reach": 0.4839861168117475, "reach_change": 0.0756915780815602, "person": "Model 13"}
+{"stimulator": "linear", "rest_reach": 0.6671183788463761, "reach_change": 0.016028327228194403, "person": "Model 14"}
+{"stimulator": "linear", "rest_reach": 0.6031870331838582, "reach_change": 0.044017110106058466, "person": "Model 15"}
+{"stimulator": "linear", "rest_reach": 0.4767537877176382, "reach_change": 0.06303786614904625, "person": "Model 16"}
+{"stimulator": "linear", "rest_reach": 0.31427024110633894, "reach_change": 0.16290219324361305, "person": "Model 17"}
+{"stimulator": "linear", "rest_reach": 0.6653724160041224, "reach_change": 0.0518189411789252, "person": "Model 20"}
+{"stimulator": "linear", "rest_reach": 0.7327183999120175, "reach_change": 0.022413402911204996, "person": "Model 19"}
+{"stimulator": "linear", "rest_reach": 0.4259662981053993, "reach_change": 0.13385062793145563, "person": "Model 18"}
+{"stimulator": "linear", "rest_reach": 0.45807665046516527, "reach_change": 0.06438017865461361, "person": "Model 21"}
+{"stimulator": "linear", "rest_reach": 0.36130207908140105, "reach_change": 0.06778556608697761, "person": "Model 22"}
+{"stimulator": "linear", "rest_reach": 0.52331337153128, "reach_change": 0.04055009367103504, "person": "Model 23"}
+{"stimulator": "linear", "rest_reach": 0.36510448128216844, "reach_change": 0.10529198336326961, "person": "Model 24"}
+{"stimulator": "linear", "rest_reach": 0.5616904179899433, "reach_change": 0.0675925654349942, "person": "Model 25"}
+{"stimulator": "linear", "rest_reach": 0.591580546741432, "reach_change": 0.02149219408276322, "person": "Model 26"}
+{"stimulator": "linear", "rest_reach": 0.689029572439853, "reach_change": 0.040103957659499936, "person": "Model 27"}
+{"stimulator": "linear", "rest_reach": 0.2926555692981507, "reach_change": 0.15932586974022617, "person": "Model 28"}
+{"stimulator": "linear", "rest_reach": 0.4936723673985403, "reach_change": 0.1007633731478256, "person": "Model 29"}
+{"stimulator": "linear", "rest_reach": 0.39594908021399944, "reach_change": 0.08662901871072318, "person": "Model 30"}
+{"stimulator": "linear", "rest_reach": 0.5925347680212606, "reach_change": 0.05522939718985373, "person": "Model 32"}
+{"stimulator": "linear", "rest_reach": 0.2699314176540458, "reach_change": 0.1626688181828782, "person": "Model 31"}
+{"stimulator": "linear", "rest_reach": 0.6522570184396975, "reach_change": -0.0017300189706895442, "person": "Model 33"}
+{"stimulator": "linear", "rest_reach": 0.4137902015832932, "reach_change": 0.12322405580174695, "person": "Model 34"}
+{"stimulator": "linear", "rest_reach": 0.5758841386460655, "reach_change": 0.004651707569636916, "person": "Model 35"}
+{"stimulator": "linear", "rest_reach": 0.5284377199441503, "reach_change": 0.06799722168078812, "person": "Model 36"}
+{"stimulator": "linear", "rest_reach": 0.6598950082492145, "reach_change": 0.03847376990659583, "person": "Model 37"}
+{"stimulator": "linear", "rest_reach": 0.6232363880830412, "reach_change": 0.06202995869906138, "person": "Model 38"}
+{"stimulator": "linear", "rest_reach": 0.5239478415514707, "reach_change": 0.0852782859965118, "person": "Model 39"}
+{"stimulator": "linear", "rest_reach": 0.5313599605883002, "reach_change": 0.08336658292449725, "person": "Model 40"}
+{"stimulator": "linear", "rest_reach": 0.22933025955251865, "reach_change": 0.14473324824027725, "person": "Model 41"}
+{"stimulator": "linear", "rest_reach": 0.3001645679785586, "reach_change": 0.14709100712304626, "person": "Model 43"}
+{"stimulator": "linear", "rest_reach": 0.526504691098951, "reach_change": 0.01920360478344872, "person": "Model 42"}
+{"stimulator": "linear", "rest_reach": 0.5563424715800088, "reach_change": 0.08574411234110357, "person": "Model 44"}
+{"stimulator": "linear", "rest_reach": 0.47865421576469613, "reach_change": 0.0718616712449377, "person": "Model 45"}
+{"stimulator": "linear", "rest_reach": 0.6110381231851106, "reach_change": 0.048711943531534914, "person": "Model 46"}
+{"stimulator": "linear", "rest_reach": 0.4601132755828906, "reach_change": 0.07427747143953811, "person": "Model 47"}
+{"stimulator": "linear", "rest_reach": 0.4644185426652535, "reach_change": 0.0989973707288165, "person": "Model 48"}
+{"stimulator": "linear", "rest_reach": 0.2814127133754726, "reach_change": 0.08496560553463224, "person": "Model 49"}
+{"stimulator": "linear", "rest_reach": 0.36099645890651844, "reach_change": 0.10999330672237356, "person": "Model 50"}

@@ -1,0 +1,12 @@
+**
+!chip
+!chip/int4_gru.c
+!chip/bench_int4_gru.py
+!falcon_submit
+!falcon_submit/decoder.py
+!falcon_submit/h1_int4_bundle.pkl
+!baseline_decoder.py
+!gru_decoder.py
+!precision_sweep.py
+!falcon_precision_drift.py
+!falcon_anchored_recal.py

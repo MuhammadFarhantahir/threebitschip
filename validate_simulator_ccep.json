@@ -1,0 +1,199 @@
+{
+  "n_patients": 74,
+  "n_raw_trials": 316366,
+  "results": {
+    "all_electrodes_n>=10": {
+      "n_pairs": 3368,
+      "predictors": {
+        "Euclidean proximity (-distance)": {
+          "spearman": 0.6385689348391502,
+          "pearson": 0.5898671292929217,
+          "partial_spearman_given_dist": 0.0
+        },
+        "HCP diffusion MRI wiring alone": {
+          "spearman": 0.519229003587811,
+          "pearson": 0.44685619290154194,
+          "partial_spearman_given_dist": 0.231536742361077
+        },
+        "HCP resting-state fMRI alone": {
+          "spearman": 0.2555823849014899,
+          "pearson": 0.26166685969458353,
+          "partial_spearman_given_dist": 0.10911534934556393
+        },
+        "Untuned Hopf model (1-param G)": {
+          "spearman": 0.607614815060634,
+          "pearson": 0.6053657537786794,
+          "partial_spearman_given_dist": 0.30246671001142
+        },
+        "Tuned Hopf simulator (G = K^-1)": {
+          "spearman": 0.22819234352597292,
+          "pearson": 0.27510147112024336,
+          "partial_spearman_given_dist": 0.08394407276089934
+        },
+        "Tuned Hopf simulator (norm G)": {
+          "spearman": 0.21035507181825974,
+          "pearson": 0.22455586572207212,
+          "partial_spearman_given_dist": 0.055404178592427446
+        },
+        "50-person MICA-MICs Hopf mean G": {
+          "spearman": 0.3961806905783335,
+          "pearson": 0.4156751767063198,
+          "partial_spearman_given_dist": 0.18305338074195568
+        },
+        "Randomly rewired Hopf (control)": {
+          "spearman": 0.0870443620376905,
+          "pearson": 0.08755146500261116,
+          "partial_spearman_given_dist": 0.01687224604940856
+        }
+      }
+    },
+    "all_electrodes_n>=20": {
+      "n_pairs": 2799,
+      "predictors": {
+        "Euclidean proximity (-distance)": {
+          "spearman": 0.6654239389666483,
+          "pearson": 0.6158820789682019,
+          "partial_spearman_given_dist": 0.0
+        },
+        "HCP diffusion MRI wiring alone": {
+          "spearman": 0.5450922238629283,
+          "pearson": 0.5142522718321414,
+          "partial_spearman_given_dist": 0.25004012803018594
+        },
+        "HCP resting-state fMRI alone": {
+          "spearman": 0.28965076024540953,
+          "pearson": 0.27843395180430325,
+          "partial_spearman_given_dist": 0.13732643721315121
+        },
+        "Untuned Hopf model (1-param G)": {
+          "spearman": 0.6241844679145248,
+          "pearson": 0.6248195841748524,
+          "partial_spearman_given_dist": 0.30718003151955126
+        },
+        "Tuned Hopf simulator (G = K^-1)": {
+          "spearman": 0.25490790496832205,
+          "pearson": 0.2753505670736835,
+          "partial_spearman_given_dist": 0.10262380764737497
+        },
+        "Tuned Hopf simulator (norm G)": {
+          "spearman": 0.24412216603592513,
+          "pearson": 0.23738766874795997,
+          "partial_spearman_given_dist": 0.07706409716566036
+        },
+        "50-person MICA-MICs Hopf mean G": {
+          "spearman": 0.41613942779173496,
+          "pearson": 0.4124344678066869,
+          "partial_spearman_given_dist": 0.19827032940484757
+        },
+        "Randomly rewired Hopf (control)": {
+          "spearman": 0.12324462622387425,
+          "pearson": 0.11312155859663277,
+          "partial_spearman_given_dist": 0.0467492405678766
+        }
+      }
+    },
+    "non_SOZ_only_n>=10": {
+      "n_pairs": 3219,
+      "predictors": {
+        "Euclidean proximity (-distance)": {
+          "spearman": 0.6398693845973521,
+          "pearson": 0.5926553997892943,
+          "partial_spearman_given_dist": 0.0
+        },
+        "HCP diffusion MRI wiring alone": {
+          "spearman": 0.5254606862219461,
+          "pearson": 0.4536978229295182,
+          "partial_spearman_given_dist": 0.23720791384854337
+        },
+        "HCP resting-state fMRI alone": {
+          "spearman": 0.25533817559173433,
+          "pearson": 0.25397043258212,
+          "partial_spearman_given_dist": 0.10325362236490931
+        },
+        "Untuned Hopf model (1-param G)": {
+          "spearman": 0.6155260589271627,
+          "pearson": 0.6103557147466502,
+          "partial_spearman_given_dist": 0.3111631296585851
+        },
+        "Tuned Hopf simulator (G = K^-1)": {
+          "spearman": 0.22821966970320418,
+          "pearson": 0.2696760245731145,
+          "partial_spearman_given_dist": 0.07785812211089393
+        },
+        "Tuned Hopf simulator (norm G)": {
+          "spearman": 0.20847582172983412,
+          "pearson": 0.21458798272420856,
+          "partial_spearman_given_dist": 0.04647580792660841
+        },
+        "50-person MICA-MICs Hopf mean G": {
+          "spearman": 0.3971692293564282,
+          "pearson": 0.4097036592253872,
+          "partial_spearman_given_dist": 0.17932468644239039
+        },
+        "Randomly rewired Hopf (control)": {
+          "spearman": 0.08004397748912737,
+          "pearson": 0.08045317554891789,
+          "partial_spearman_given_dist": -0.0016274177882765184
+        }
+      }
+    }
+  },
+  "hub_validation": {
+    "n_partners": 47,
+    "hopf_rho": 0.02541997468946864,
+    "hopf_partial_rho": 0.1241354074292621,
+    "wiring_rho": 0.30881501035929637,
+    "rewired_rho": -0.04248349792929587
+  },
+  "fmri_vs_ccep_tradeoff": [
+    {
+      "model": "Untuned Hopf (1 param g)",
+      "fmri_r": 0.30391969036352146,
+      "ccep_rho": 0.6155260589271627,
+      "ccep_partial_rho": 0.3111631296585851,
+      "hub_rho": 0.5606419245304877
+    },
+    {
+      "model": "Excitability-only Hopf (101p)",
+      "fmri_r": 0.3697547754849312,
+      "ccep_rho": 0.38311844651500404,
+      "ccep_partial_rho": 0.04985749763517472,
+      "hub_rho": 0.2592837418325802
+    },
+    {
+      "model": "Anchored Hopf (L2 lam=1.0)",
+      "fmri_r": 0.3835142069976154,
+      "ccep_rho": 0.39599737705726723,
+      "ccep_partial_rho": 0.057463124863104835,
+      "hub_rho": 0.2596343621731245
+    },
+    {
+      "model": "Anchored Hopf (L2 lam=0.1)",
+      "fmri_r": 0.49220326814853543,
+      "ccep_rho": 0.4197743334783047,
+      "ccep_partial_rho": 0.06728237705987777,
+      "hub_rho": 0.27821724022197747
+    },
+    {
+      "model": "Anchored Hopf (L2 lam=0.01)",
+      "fmri_r": 0.6876894653896171,
+      "ccep_rho": 0.38464471372196307,
+      "ccep_partial_rho": 0.06006981452368047,
+      "hub_rho": 0.3784946576176745
+    },
+    {
+      "model": "Anchored Hopf (L2 lam=0.001)",
+      "fmri_r": 0.8470079969934464,
+      "ccep_rho": 0.19312619406148243,
+      "ccep_partial_rho": 0.0008564518345001072,
+      "hub_rho": 0.010051116428939324
+    },
+    {
+      "model": "Anchored Hopf (L2 lam=0.0)",
+      "fmri_r": 0.8885670818208563,
+      "ccep_rho": 0.17616541915079326,
+      "ccep_partial_rho": 0.049343839101447545,
+      "hub_rho": 0.0077720842154007565
+    }
+  ]
+}

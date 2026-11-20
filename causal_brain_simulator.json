@@ -1,0 +1,99 @@
+{
+  "cv_ccep": {
+    "HCP diffusion MRI wiring alone": {
+      "spearman": 0.5254606862219461,
+      "pearson": 0.4536978229295182,
+      "partial_spearman_given_dist": 0.23720791384854337
+    },
+    "Untuned Hopf (1 param g)": {
+      "spearman": 0.6155260589271627,
+      "pearson": 0.6103557147466502,
+      "partial_spearman_given_dist": 0.3111631296585851
+    },
+    "CCEP-calibrated Hopf (5-fold unseen pairs)": {
+      "spearman": 0.7098673113570948,
+      "pearson": 0.7265080995791344,
+      "partial_spearman_given_dist": 0.44428453697970194
+    },
+    "CCEP-calibrated Hopf (5-fold unseen stim regions)": {
+      "spearman": 0.6224431548189007,
+      "pearson": 0.5354687161851939,
+      "partial_spearman_given_dist": 0.3192301337874249
+    },
+    "CCEP-calibrated rewired control (unseen pairs)": {
+      "spearman": 0.09919442937312463,
+      "pearson": 0.08970088594380846,
+      "partial_spearman_given_dist": 0.12881820072691832
+    }
+  },
+  "closed_loop_causal": {
+    "Untuned anatomy-Hopf (CCEP +0.616)": {
+      "rest_reach": 0.027019934758820703,
+      "rest_sync": 0.019169408008257262,
+      "controllers": {
+        "fixed rhythm": {
+          "mean_reach_change": 0.015058317187241916,
+          "seeds": [
+            0.015058317187241916
+          ],
+          "mean_sync_change": 0.00046418017006059166,
+          "energy": 0.16110926728687402
+        },
+        "linear": {
+          "mean_reach_change": 0.002073970838537924,
+          "seeds": [
+            0.0072720393984328675,
+            0.00266665303799098,
+            -0.0037167799208100752
+          ],
+          "mean_sync_change": 0.00010230995923451265,
+          "energy": 0.9710859297497373
+        },
+        "residual": {
+          "mean_reach_change": 0.009495851695007272,
+          "seeds": [
+            0.045363906725404905,
+            -0.03066635403045066,
+            0.013790002390067571
+          ],
+          "mean_sync_change": 0.00023683886771285056,
+          "energy": 0.9495794696990355
+        }
+      }
+    },
+    "CCEP-calibrated Hopf (causally validated)": {
+      "rest_reach": 0.028145937193528356,
+      "rest_sync": 0.021312800125577736,
+      "controllers": {
+        "fixed rhythm": {
+          "mean_reach_change": 0.020371590496723442,
+          "seeds": [
+            0.020371590496723442
+          ],
+          "mean_sync_change": 0.0008954993152442088,
+          "energy": 0.16082654897232662
+        },
+        "linear": {
+          "mean_reach_change": 0.043154012013893316,
+          "seeds": [
+            0.06072740273380724,
+            0.0072179057985912965,
+            0.06151672750928141
+          ],
+          "mean_sync_change": 0.0003905040628257445,
+          "energy": 0.7896621920618246
+        },
+        "residual": {
+          "mean_reach_change": 0.0276248453241399,
+          "seeds": [
+            0.05680614592523227,
+            -0.0407318920880363,
+            0.06680028213522374
+          ],
+          "mean_sync_change": -0.001260575563336794,
+          "energy": 13.206385709405964
+        }
+      }
+    }
+  }
+}

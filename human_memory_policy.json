@@ -1,0 +1,145 @@
+{
+  "n_patients": 15,
+  "total_words": 4500,
+  "total_stims": 1142,
+  "mean_auc_logreg": 0.6031147602715048,
+  "p_auc_logreg": 6.579332169400684e-05,
+  "mean_auc_gru": 0.5810864441765626,
+  "p_auc_gru": 0.0035328224432972766,
+  "mean_auc_null": 0.4915598749569883,
+  "mean_trigger_agreement_auc": 0.6837660717401604,
+  "placebo_high_state_recall_diff_pp": -2.466757994165312,
+  "placebo_high_state_dz_diff": 0.34940058340628943,
+  "by_site_group": {
+    "LTC": {
+      "n_patients": 10,
+      "n_stims": 747,
+      "mean_recall_diff_pp": 0.006148406815396345,
+      "se_recall_diff_pp": 1.2965167370809214,
+      "mean_dz_diff": 0.061005682498216626,
+      "mean_very_low_pp": -0.5960200826553683,
+      "mean_mod_low_pp": -1.716906587774308
+    },
+    "Hippocampus": {
+      "n_patients": 2,
+      "n_stims": 197,
+      "mean_recall_diff_pp": -7.759307850394381,
+      "se_recall_diff_pp": 1.065567159836771,
+      "mean_dz_diff": -1.418447063304484,
+      "mean_very_low_pp": -12.771087688297158,
+      "mean_mod_low_pp": -2.585504458409253
+    },
+    "Frontal": {
+      "n_patients": 2,
+      "n_stims": 118,
+      "mean_recall_diff_pp": 1.4530682915459656,
+      "se_recall_diff_pp": 0.075812733840132,
+      "mean_dz_diff": -0.1009206771850586,
+      "mean_very_low_pp": -2.295321637426901,
+      "mean_mod_low_pp": null
+    },
+    "Insula": {
+      "n_patients": 1,
+      "n_stims": 80,
+      "mean_recall_diff_pp": -9.852941176470589,
+      "se_recall_diff_pp": 0.0,
+      "mean_dz_diff": -0.6666719913482666,
+      "mean_very_low_pp": -17.22972972972973,
+      "mean_mod_low_pp": -6.785714285714284
+    }
+  },
+  "ltc_vs_nonltc_gap_pp": 4.4992324656488805,
+  "neural_shift_vs_recall_r": 0.3048918219799636,
+  "neural_shift_vs_recall_rho": -0.07142857142857141,
+  "lopo_policy": {
+    "n_patients": 15,
+    "hospital_trigger_mean_pp": -1.493595748400897,
+    "lopo_policy_mean_pp": -0.29239766081871343,
+    "lopo_vs_hospital_gain_pp": 1.201198087582184,
+    "permuted_site_ctrl_mean_pp": -0.4178623687815381,
+    "lopo_beats_perm_p": 0.4527363184079602,
+    "lopo_stimulated_count": 1,
+    "lopo_withheld_count": 14,
+    "harmful_sessions_lt_minus3pp": 7,
+    "harmful_sessions_avoided": 6,
+    "lopo_pred_vs_actual_r": 0.3880073036486455,
+    "lopo_pred_vs_actual_rho": 0.049999999999999996
+  },
+  "patients": [
+    {
+      "subject": "Patient 01",
+      "site_group": "Insula",
+      "recall_diff_low_pp": -9.852941176470589
+    },
+    {
+      "subject": "Patient 02",
+      "site_group": "Hippocampus",
+      "recall_diff_low_pp": -9.266247379454922
+    },
+    {
+      "subject": "Patient 03",
+      "site_group": "Hippocampus",
+      "recall_diff_low_pp": -6.25236832133384
+    },
+    {
+      "subject": "Patient 04",
+      "site_group": "LTC",
+      "recall_diff_low_pp": -4.385964912280701
+    },
+    {
+      "subject": "Patient 05",
+      "site_group": "LTC",
+      "recall_diff_low_pp": -4.004329004329005
+    },
+    {
+      "subject": "Patient 06",
+      "site_group": "LTC",
+      "recall_diff_low_pp": -3.683574879227053
+    },
+    {
+      "subject": "Patient 07",
+      "site_group": "LTC",
+      "recall_diff_low_pp": -3.404774823657078
+    },
+    {
+      "subject": "Patient 08",
+      "site_group": "LTC",
+      "recall_diff_low_pp": -1.9868827160493818
+    },
+    {
+      "subject": "Patient 09",
+      "site_group": "LTC",
+      "recall_diff_low_pp": -1.091269841269843
+    },
+    {
+      "subject": "Patient 10",
+      "site_group": "Frontal",
+      "recall_diff_low_pp": 1.3458528951486692
+    },
+    {
+      "subject": "Patient 11",
+      "site_group": "Frontal",
+      "recall_diff_low_pp": 1.560283687943262
+    },
+    {
+      "subject": "Patient 12",
+      "site_group": "LTC",
+      "recall_diff_low_pp": 1.9488646522438757
+    },
+    {
+      "subject": "Patient 13",
+      "site_group": "LTC",
+      "recall_diff_low_pp": 4.111230972072394
+    },
+    {
+      "subject": "Patient 14",
+      "site_group": "LTC",
+      "recall_diff_low_pp": 5.060379528464631
+    },
+    {
+      "subject": "Patient 15",
+      "site_group": "LTC",
+      "recall_diff_low_pp": 7.497805092186124
+    }
+  ]
+}

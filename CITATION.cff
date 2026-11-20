@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this release if you use the analysis code."
+title: "Threebits neurotechnology research reproducibility code"
+type: software
+authors:
+  - family-names: Tahir
+    given-names: Muhammad Farhan
+    affiliation: Threebits Research
+repository-code: "https://github.com/MuhammadFarhantahir/threebitschip"
+url: "https://threebits.si/papers/"
+version: 1.0.0
+date-released: 2026-11-21

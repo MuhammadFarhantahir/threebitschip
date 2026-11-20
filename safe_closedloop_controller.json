@@ -1,0 +1,315 @@
+{
+  "bench1_ccep_brain": {
+    "rho_open": 0.9806079635904512,
+    "rho_safe": 0.993212787256658,
+    "controllers": {
+      "fixed_rhythm": {
+        "runs": [
+          {
+            "seed": 0,
+            "reach_change": 0.020371590496723442,
+            "sync_change": 0.0008954993152442088,
+            "energy": 0.16082654897232662,
+            "rho_cl": null,
+            "violated": false
+          }
+        ],
+        "violations": 0,
+        "stress_seed1": null
+      },
+      "unconstrained_linear": {
+        "runs": [
+          {
+            "seed": 0,
+            "reach_change": 0.06072740273380724,
+            "sync_change": -0.0006025837846284722,
+            "energy": 0.8553879915901009,
+            "rho_cl": 0.9778255470055721,
+            "violated": false
+          },
+          {
+            "seed": 1,
+            "reach_change": 0.0072179057985912965,
+            "sync_change": 0.001506846165084778,
+            "energy": 1.0000436210955628,
+            "rho_cl": 0.9869919288498794,
+            "violated": false
+          },
+          {
+            "seed": 2,
+            "reach_change": 0.06151672750928141,
+            "sync_change": 0.0002672498080209279,
+            "energy": 0.5135549634998103,
+            "rho_cl": 0.9783924555550424,
+            "violated": false
+          },
+          {
+            "seed": 3,
+            "reach_change": -0.03203975255285144,
+            "sync_change": -0.0015253329797086314,
+            "energy": 0.5636694372568749,
+            "rho_cl": 0.9778544100944346,
+            "violated": false
+          },
+          {
+            "seed": 4,
+            "reach_change": -0.05419146161674957,
+            "sync_change": 0.003717108629903057,
+            "energy": 1.046660028761824,
+            "rho_cl": 0.9968103813528068,
+            "violated": false
+          }
+        ],
+        "violations": 0,
+        "stress_seed1": null
+      },
+      "unconstrained_residual": {
+        "runs": [
+          {
+            "seed": 0,
+            "reach_change": 0.05680614592523227,
+            "sync_change": -0.0016860630622084981,
+            "energy": 0.8104055048234327,
+            "rho_cl": 0.9785559211863647,
+            "violated": false
+          },
+          {
+            "seed": 1,
+            "reach_change": -0.0407318920880363,
+            "sync_change": -0.001635425098364854,
+            "energy": 37.83311232523343,
+            "rho_cl": 1.0058370035813546,
+            "violated": true
+          },
+          {
+            "seed": 2,
+            "reach_change": 0.06680028213522374,
+            "sync_change": -0.00046023852943702934,
+            "energy": 0.9756392981610261,
+            "rho_cl": 0.9791942788095156,
+            "violated": false
+          },
+          {
+            "seed": 3,
+            "reach_change": -0.03163366663970833,
+            "sync_change": -0.0015726155323103268,
+            "energy": 0.9961451563135,
+            "rho_cl": 0.9778129103909009,
+            "violated": false
+          },
+          {
+            "seed": 4,
+            "reach_change": 0.012186009283589587,
+            "sync_change": 0.0013048658529615151,
+            "energy": 0.9195493775215134,
+            "rho_cl": 1.0087929955742532,
+            "violated": false
+          }
+        ],
+        "violations": 1,
+        "stress_seed1": {
+          "pre_rms_state": 1.1337591284042514,
+          "peak_rms_state": 1.1718414138236881,
+          "post_recovery_rms_state": 1.1981802187479271,
+          "post_energy_ratio": 0.9418327395930756,
+          "max_step_energy": 2.6366603019427273
+        }
+      },
+      "safe_linear": {
+        "runs": [
+          {
+            "seed": 0,
+            "reach_change": 0.058093685588951505,
+            "sync_change": -0.0012918301469584351,
+            "energy": 0.9302007398375202,
+            "peak_current": 5.976638918152859,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9783370072142638,
+            "h_inf": 12.762436974358838,
+            "small_gain": 0.0,
+            "lambda_min_P": 1.38979116111562,
+            "lambda_max_BRL": -0.999999999999093
+          },
+          {
+            "seed": 1,
+            "reach_change": 0.0600219844335888,
+            "sync_change": -0.00078856319861529,
+            "energy": 0.5408424606420448,
+            "peak_current": 3.1197383919730517,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9799079212962006,
+            "h_inf": 4.537095451453189,
+            "small_gain": 0.0,
+            "lambda_min_P": 1.1528593516586052,
+            "lambda_max_BRL": -0.9999999999997125
+          },
+          {
+            "seed": 2,
+            "reach_change": 0.06666479548448251,
+            "sync_change": 0.00019150516251095778,
+            "energy": 0.5638723039899253,
+            "peak_current": 3.4723301247138143,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9769204296631484,
+            "h_inf": 4.932097335622642,
+            "small_gain": 0.0,
+            "lambda_min_P": 1.3599592467872665,
+            "lambda_max_BRL": -0.999999999999636
+          },
+          {
+            "seed": 3,
+            "reach_change": 0.062346127101841564,
+            "sync_change": -0.0004898809245068447,
+            "energy": 0.6856428396184006,
+            "peak_current": 3.3913895246227286,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9772987644292527,
+            "h_inf": 3.605672320876513,
+            "small_gain": 0.0,
+            "lambda_min_P": 1.4364028034406986,
+            "lambda_max_BRL": -0.999999999999561
+          },
+          {
+            "seed": 4,
+            "reach_change": 0.07448282106972347,
+            "sync_change": 0.00130371949679505,
+            "energy": 0.797100888754474,
+            "peak_current": 6.4458971440623625,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9932127685345542,
+            "h_inf": 25.581833754554665,
+            "small_gain": 0.0,
+            "lambda_min_P": 1.1396717171510273,
+            "lambda_max_BRL": -0.9999999999970232
+          }
+        ],
+        "violations": 0,
+        "certified_count": 5,
+        "stress_seed1": null
+      },
+      "safe_residual": {
+        "runs": [
+          {
+            "seed": 0,
+            "reach_change": 0.05807550745313068,
+            "sync_change": -0.0012612216659524944,
+            "energy": 0.4828134690475063,
+            "peak_current": 3.3018711465135873,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9793855775767405,
+            "h_inf": 2.5391052789329067,
+            "small_gain": 0.8499999999999992,
+            "lambda_min_P": 0.00028139871813291363,
+            "lambda_max_BRL": -8.4114479435617e-05
+          },
+          {
+            "seed": 1,
+            "reach_change": 0.057709634872519414,
+            "sync_change": -0.0011546220516668662,
+            "energy": 0.5421676991754811,
+            "peak_current": 2.845225596047392,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9804097706630805,
+            "h_inf": 6.266695971952783,
+            "small_gain": 0.8500000000000001,
+            "lambda_min_P": 0.00028129261800806924,
+            "lambda_max_BRL": -9.759931403302385e-05
+          },
+          {
+            "seed": 2,
+            "reach_change": 0.062213599443641146,
+            "sync_change": -0.0005140898207630995,
+            "energy": 0.60657299576937,
+            "peak_current": 3.6294481782820576,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9781108180158054,
+            "h_inf": 7.102785193840426,
+            "small_gain": 0.8499999999999995,
+            "lambda_min_P": 0.00028086188027679154,
+            "lambda_max_BRL": -9.93785555637436e-05
+          },
+          {
+            "seed": 3,
+            "reach_change": 0.06525213325630258,
+            "sync_change": -0.0001590557178252365,
+            "energy": 0.7702076149037187,
+            "peak_current": 4.471899806387456,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9760780131306378,
+            "h_inf": 6.108308280311978,
+            "small_gain": 0.8500000000000001,
+            "lambda_min_P": 0.0002809582635791239,
+            "lambda_max_BRL": -9.494427998079325e-05
+          },
+          {
+            "seed": 4,
+            "reach_change": 0.0703188820773413,
+            "sync_change": 0.000904890720172202,
+            "energy": 0.6564428298785739,
+            "peak_current": 4.529728772723236,
+            "violated": false,
+            "certified": true,
+            "rho_cl": 0.9893567960866233,
+            "h_inf": 16.404162628266075,
+            "small_gain": 0.85,
+            "lambda_min_P": 0.0002814566592522057,
+            "lambda_max_BRL": -9.981935514623337e-05
+          }
+        ],
+        "violations": 0,
+        "certified_count": 5,
+        "stress_seed1": {
+          "pre_rms_state": 1.0481561308568335,
+          "peak_rms_state": 1.0733248102944295,
+          "post_recovery_rms_state": 1.0473656397440687,
+          "post_energy_ratio": 0.5610505001790951,
+          "max_step_energy": 2.7999792212512884
+        }
+      }
+    },
+    "stress_no_stim": {
+      "pre_rms_state": 0.9988911133665388,
+      "peak_rms_state": 1.2665602678979602,
+      "post_recovery_rms_state": 1.0029482036672515,
+      "post_energy_ratio": 0.0,
+      "max_step_energy": 0.0
+    }
+  },
+  "bench2_50people_safe_residual": {
+    "n_runs": 150,
+    "certified_count": 150,
+    "violations": 8,
+    "mean_reach_change": 0.02955056618022318,
+    "median_reach_change": 0.025917782901298148,
+    "clear_3of3_count": 29,
+    "max_abs_person_sync_change": 0.02189023428614975,
+    "max_abs_run_sync_change": 0.043516984235509544,
+    "max_energy": 0.9792659155181921,
+    "max_peak_current": 6.585702991197683,
+    "max_rho_cl": 0.9820008396801191,
+    "max_small_gain": 0.8500000000000001
+  },
+  "bench3_nonlinear_hopf": {
+    "safe_linear": {
+      "mean": 0.10663035185664078,
+      "max_energy": 0.9961401243401965,
+      "max_peak_current": 5.729217804882307,
+      "violations": 1
+    },
+    "safe_residual": {
+      "mean": 0.0995360837100211,
+      "max_energy": 0.9954252897209964,
+      "max_peak_current": 2.9174442796232043,
+      "violations": 1
+    }
+  }
+}
